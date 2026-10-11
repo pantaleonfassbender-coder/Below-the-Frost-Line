@@ -389,18 +389,82 @@
    "plate": "herald1926_newtown"
   },
   {
+   "d": "23 March 1927",
+   "side": "work",
+   "titel": "The circus comes for the winter",
+   "text": "John Ringling announces that the winter quarters of Ringling Brothers and Barnum & Bailey will move to Sarasota; the grounds open to visitors on Christmas Day.",
+   "cite": "#/text/bust/circus/1",
+   "citeLabel": "After the boom [circus 1]",
+   "plate": "grismer1946_quarters",
+   "quelle": "Grismer (1946), pp. 226–227."
+  },
+  {
    "d": "3 May 1927",
    "side": "work",
    "titel": "Palmer Farms ships",
    "text": "Drained from 1924 and first planted in January 1927, Palmer Farms sends its first shipment: three cars of tomatoes and one of potatoes. It later turns to celery; by 1946 “70 per cent of those employed are negroes”.",
-   "quelle": "Grismer, The Story of Sarasota (1946), p. 256."
+   "quelle": "Grismer, The Story of Sarasota (1946), p. 256.",
+   "cite": "#/text/bust/work/2",
+   "citeLabel": "After the boom [work 2]",
+   "plate": "hearing1937_kimmel"
+  },
+  {
+   "d": "15 May 1928",
+   "side": "promise",
+   "titel": "The first bank closes",
+   "text": "The American National Bank closes; its depositors get back 18½ cents on the dollar. Three more banks follow by 1933.",
+   "cite": "#/text/bust/bust/2",
+   "citeLabel": "After the boom [bust 2]",
+   "quelle": "Grismer (1946), p. 221."
   },
   {
    "d": "1930",
    "side": "town",
    "titel": "8,398",
    "text": "The census counts 8,398 people in the city of Sarasota, against 2,149 in 1920 and 840 in 1910, and 12,440 in Sarasota County.",
-   "quelle": "Fifteenth Census of the United States: 1930, Population, vol. I, Florida, table 4, p. 213."
+   "quelle": "Fifteenth Census of the United States: 1930, Population, vol. I, Florida, table 4, p. 213.",
+   "cite": "#/text/bust/bust/4",
+   "citeLabel": "After the boom [bust 4]"
+  },
+  {
+   "d": "1931",
+   "side": "colony",
+   "titel": "Museum and trailer park",
+   "text": "The Ringling museum opens to the public; the city's Trailer Park at Payne Park opens and hosts the national conventions of the Tin Can Tourists until 1937.",
+   "cite": "#/text/bust/circus/2",
+   "citeLabel": "After the boom [circus 2]",
+   "plate": "grismer1946_museum",
+   "quelle": "Grismer (1946), pp. 228, 233."
+  },
+  {
+   "d": "September 1934",
+   "side": "work",
+   "titel": "A park on the Myakka",
+   "text": "The state buys 17,500 acres from the estate of Mrs. Palmer's brother; her sons give 1,920 acres of the valley. The CCC begins work that winter.",
+   "cite": "#/text/bust/relief/3",
+   "citeLabel": "After the boom [relief 3]",
+   "plate": "rattler1935_mast",
+   "quelle": "Grismer (1946), pp. 267–268; Myakka Rattler 1935."
+  },
+  {
+   "d": "24 February 1938",
+   "side": "town",
+   "titel": "The auditorium opens",
+   "text": "The Municipal Auditorium in Bayfront Park, built with WPA labour on land taken for back taxes, opens for the Sara de Soto celebration.",
+   "cite": "#/text/bust/relief/4",
+   "citeLabel": "After the boom [relief 4]",
+   "plate": "grismer1946_auditorium",
+   "quelle": "Grismer (1946), p. 245."
+  },
+  {
+   "d": "27 December 1940",
+   "side": "town",
+   "titel": "Lido Beach Casino",
+   "text": "The WPA's beach casino on Lido Beach opens, on land the Ringling estate gave up in a tax settlement.",
+   "cite": "#/text/bust/relief/5",
+   "citeLabel": "After the boom [relief 5]",
+   "plate": "grismer1946_casino",
+   "quelle": "Grismer (1946), p. 248."
   },
   {
    "d": "2 January 1946",

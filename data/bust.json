@@ -1,0 +1,165 @@
+{
+ "id": "bust",
+ "titel": "After the boom",
+ "jahr": "1926–1941",
+ "autor": "The town historian of 1946, a CCC camp paper, a federal hearing and a federal directory",
+ "quelle": "Karl H. Grismer, The Story of Sarasota (1946; copyright not renewed); The Myakka Rattler, 1935; Fifteenth Census of the United States, 1930: Internet Archive. Atlantic-Gulf Ship Canal, Fla.: Hearings (1937); National Youth Administration, Directory of Opportunities for Youth in Florida (1936): University of Florida Digital Collections. All in the public domain (federal publications, a federal camp paper, and a book not renewed).",
+ "hinweis": "Each passage is transcribed from the page image; spelling and punctuation are those of the print. “…” marks an omission. For these years the town's own papers are not digitized, and the collapse is told mainly by Grismer, who wrote as the town's historian and favoured its leading men; his figures are given as his. What carried Sarasota through the Depression is documented better than what it cost: the federal programmes left publications, the people who lost their savings and the labourers in the celery fields did not.",
+ "sections": [
+  {
+   "id": "bust",
+   "titel": "The bust (1926–1933)",
+   "blurb": "The boom ended in 1926. Of thirty-seven local “millionaires”, a reporter later counted thirty-three “busted”; four banks failed or closed between 1928 and 1933, and the city and county owed more than thirteen million dollars, much of it for paved streets in subdivisions where no one lived.",
+   "plates": [
+    "grismer1946_museum"
+   ],
+   "viz": "bust-banks",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), pp. 220–221",
+     "titel": "Thirty-seven millionaires",
+     "orig": "One day in October, 1925, when the Florida boom was at its peak, two newspaper reporters put their heads together and began listing all the “millionaires” and “near millionaires” in Sarasota—not counting the Palmers or the Ringlings, or any winter residents. When they finished they had the names of 37 men listed as being worth anywhere from $500,000 to a million or more. Two years after the boom ended, one of the reporters ran across the list in his desk and started checking off the names of the men who had “lost their shirts” when real estate values crashed. Of the original 37, all except four were checked off as “busted.” … Many business firms went bankrupt. Scores of houses and apartments were sold at sacrifice prices to satisfy mortgages. The three leading hotels went into the hands of receivers.",
+     "note": "Grismer himself calls the reporters' list “not … any too accurate”. The Sarasota Herald's digitized run ends in August 1926; the collapse is told here from his book alone (see “What is missing”)."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 221",
+     "titel": "The banks",
+     "orig": "The American National Bank closed its doors Tuesday noon May 15, 1928. … Depositors, who had $462,489 in the bank, ultimately received only 18½ cents on the dollar. … Then came the crash of the First Bank and Trust Co., on July 17, 1929. The depositors finally received approximately 18¼ cents on the dollar—and their deposits totalled $513,091.42. They lost more than $400,000. The Bank of Sarasota, which had operated on a more conservative basis, survived until the depths of the Great Depression were reached in mid-summer of 1932. It closed August 29. … The depositors eventually received 42½ cents on the dollar. The Ringling Bank and Trust Co. went into voluntary liquidation on May 1, 1933, but Mrs. Edith Ringling, widow of Charles Ringling, paid off the depositors in full, at a loss to herself of a reported $250,000.",
+     "note": "Four banks in five years. Who the depositors were, Grismer does not say; the savings lost were those of people who had trusted the promises of the boom."
+    },
+    {
+     "n": 3,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 223",
+     "titel": "Paved streets in the sticks",
+     "orig": "At the end of the boom, the city and county were nearly crushed under a staggering load of bonded indebtedness. By 1928 the county had a bonded indebtedness of $5,841,000, in addition to $1,223,000 worth of school bonds, and the debts of the city totalled approximately $6,200,000. Bonds had been issued profligately, with the greatest abandon, and apparently no idea that the community might some time suffer a period of adversity. … A large part of the city's bonded indebtedness was assumed to build paved streets in subdivisions “far out in the sticks.” Also, to lay water mains in places where no houses had been built. The paved streets were nice to look at, and helped real estate salesmen in making sales, but, after the boom had burst and the streets were covered with grass they were a headache to pay for.",
+     "note": "The city's own borrowing had paid for the promise: streets and water mains for lots that were sold, not lived on. How the debt was settled Grismer tells only in passing, in his sketch of Mayor E. A. Smith (1931–1945, with a break), who “succeeded in refunding the city's debt, without cost to the city, and reduced the interest rate to three per cent” (p. 329). The records of the settlement with the bondholders have not been found."
+    },
+    {
+     "n": 4,
+     "pg": "Fifteenth Census of the United States: 1930, Population, vol. I, Florida, table 4, p. 213",
+     "titel": "The count of 1930",
+     "orig": "Sarasota city … 1930: 8,398 … 1920: 2,149 … 1910: 840. Sarasota County … 1930: 12,440.",
+     "note": "The booklet of about 1924 had set the goal of 25,000 residents within five years (module 4, “Selling the boom”, [3]). The census of 1930 counted a third of that; the town had nevertheless grown fourfold in ten years."
+    }
+   ],
+   "zk": "After the boom, The bust"
+  },
+  {
+   "id": "circus",
+   "titel": "The circus and the museum (1927–1936)",
+   "blurb": "In March 1927 John Ringling brought the winter quarters of his circus to Sarasota; the grounds opened to visitors at Christmas. His museum opened in 1931, and an art school with it.",
+   "plates": [
+    "grismer1946_quarters",
+    "nya1936_ringling"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), pp. 226–227, quoting Dudley V. Haddock of the Florida State Chamber of Commerce, 24 April 1927",
+     "titel": "The circus comes for the winter, 1927",
+     "orig": "“Sarasota was one of the ‘boomiest’ of the boom centers during the turbulent days of 1925 and when the bubble burst found itself with much of its assets frozen. … The season was nearing its conclusion with Sarasota's people wondering how much they would have to economize to pull through the summer when John Ringling's announcement came. It changed the situation completely. To prepare for the arrival of the circus, Ringling must spend approximately $500,000 in the erection of buildings. This assures a large payroll through the summer, and once the circus is here, it will mean the employment of mechanics in the building and repairing of circus wagons, railroad cars and other equipment.”",
+     "note": "Ringling announced on 23 March 1927 that the winter quarters of Ringling Brothers and Barnum & Bailey would move to Sarasota (Grismer, p. 226). The grounds were opened to the public on Christmas Day 1927 (p. 227): the circus's off-season became the town's attraction."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), pp. 227–228",
+     "titel": "A museum after the boom",
+     "orig": "The museum, which cost $2,500,000 is built around a courtyard 150 by 350 feet in size. Of Florentine design, the building has columns from Greece which are more than 1,000 years old and original wall foundations from Italy equally as old. … The museum was opened to the public in 1931. It houses the finest individual collection of Rubens in the world, artists say, besides many original Titians, Rembrandts, and other world-famous paintings. … The circus winter quarters and the Ringling museum were assets Sarasota gained after the Florida boom burst.",
+     "note": "Grismer's figures and judgements; the plate's caption adds that the museum and its collection were “willed to the state by the late John Ringling” (p. 213). The art colony that grew around it is left for a chapter of its own (see “What is missing”)."
+    },
+    {
+     "n": 3,
+     "pg": "National Youth Administration for Florida, Directory of Opportunities for Youth in Florida (1936), p. 434",
+     "titel": "The Ringling School of Art",
+     "orig": "RINGLING JUNIOR COLLEGE. Verman Kimbrough, President. The Ringling Jr. College, Sarasota, Florida, consists of a School of Arts and Sciences, School of Music, and the Ringling School of Art. Admission Requirements: Graduates of accredited high schools and special students are admitted upon receipt of certificate of credit. Expenses: Minimum cost per year $500.",
+     "note": "A federal relief agency's directory for the young. The School of Art, opened in 1931, is one line of it; $500 a year was the price of the arts in Depression Sarasota."
+    }
+   ],
+   "zk": "After the boom, The circus and the museum"
+  },
+  {
+   "id": "work",
+   "titel": "Celery and trailers (1924–1937)",
+   "blurb": "Palmer Farms drained two muck ponds, drilled 133 artesian wells and turned to celery, worked mostly by Black labourers. The winter visitors of the lean years came in trailers; from 1931 the Tin Can Tourists held their conventions at Payne Park.",
+   "plates": [
+    "hearing1937_kimmel"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Atlantic-Gulf Ship Canal, Fla.: Hearings, House Committee on Rivers and Harbors (1937), p. 299: J. G. Kimmel, civil engineer, Sarasota",
+     "titel": "Celery on the muck, and the water under it",
+     "orig": "I have been connected with this agricultural development, known as Palmer Farms, at Sarasota, Fla., since 1923, when the first plans were laid for the reclomation of the lands in which these farms lie. Palmer Farms originally consisted of two level muck or peat ponds having an area of about 2 square miles each, together with a higher sandy land surrounding the ponds. These lands were first drained and a total of 133 artesian wells drilled to supply water for irrigation during the dry season. The growing of celery soon became practically the only industry. This crop requires a large volume of water and it soon became apparent that a greater volume than that supplied by free flow from the wells would be needed. Naturally, the first thought was more wells, but already, after only 2 or 3 years of use, the head on the wells which originally stood 8 to 10 feet above the ground, had decreased appreciably.",
+     "note": "An engineer of the Palmers' farming company, testifying in Washington against a sea-level canal across Florida that might draw down the ground water (see the companion apparatus Not Practicable). “Reclomation” as printed. The celery fields, drained from 1924, were the Palmers' second promise of land: small farms for settlers."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 256",
+     "titel": "Who worked the fields",
+     "orig": "Other large growers and marketers are: Burquest & Stockbridge, F-an-Cee Farms, Muckland Celery Co., the Raoul Co., and the Sarasota Celery Co. Approximately 1,500 persons are employed in the raising and marketing of the celery crop; 70 per cent of those employed are negroes. It should be recorded here that drainage of Palmer Farms was started in 1924; that the first plantings were made in January, 1927, and that the first shipment of produce, consisting of three cars of tomatoes and one car of potatoes, was made May 3, 1927. Later, the Farms specialized on the production of celery.",
+     "note": "Grismer's figures for the 1940s. The growers are named; the workers, most of them Black, are a percentage."
+    },
+    {
+     "n": 3,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 233",
+     "titel": "The Tin Can Tourists",
+     "orig": "When the Tin Can Tourists first began coming to Sarasota, back in the winter of 1919-20, the city had no place for them to stay. … During the winter of 1921-22, the Tin Canners' grounds were moved to Osprey Avenue south of Morrill and the tourists were charged $10 per season. … This site soon proved inadequate and the present Trailer Park was established at Payne Park in 1931 and the national conventions of the Tin Can Tourists were held there each year thereafter until 1937. … During the winter months, Trailer Park is a community within a community, and its population at times approaches 5,000.",
+     "note": "The winter visitors of the lean years came in cars and trailers. A town that had promised a “society circle” in 1910 (module 3) now rented trailer lots to thousands."
+    }
+   ],
+   "zk": "After the boom, Celery and trailers"
+  },
+  {
+   "id": "relief",
+   "titel": "Relief (1934–1941)",
+   "blurb": "The federal government built what the town could no longer pay for. The Civilian Conservation Corps made a state park on the Myakka out of Palmer land; the Works Progress Administration built an auditorium on the bayfront and a casino on Lido Beach.",
+   "plates": [
+    "rattler1935_mast",
+    "rattler1935_tel",
+    "rattler1935_river",
+    "grismer1946_auditorium",
+    "grismer1946_casino"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "The Myakka Rattler (Company 1421, Civilian Conservation Corps), 29 March 1935, p. 5",
+     "titel": "Twelve miles of line",
+     "orig": "TELEPHONE LINE. Another task has been completed. The telephone line from Bee Ridge to camp is open now. There are twelve miles of line which were put up by about fourteen of the enrollees. Mr. Oldham has been in charge of the project and has finished it in the record time of three weeks.",
+     "note": "The camp paper of the Civilian Conservation Corps company at Myakka, typed and duplicated by the young men themselves."
+    },
+    {
+     "n": 2,
+     "pg": "The Myakka Rattler (Company 1421, Civilian Conservation Corps), 2 August 1935, p. 3",
+     "titel": "The river comes back",
+     "orig": "RIVER RISES FIVE FEET IN TWO DAYS. The beautiful Myakka River has come back to life again, after a long period of dry weather. The rainy season has restored it's life to the point of flowing, to the joy of Company 1421.",
+     "note": "The river Mrs. Palmer had wanted dredged in 1916 (module 3) is, nineteen years later, the camp's landscape."
+    },
+    {
+     "n": 3,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), pp. 267–268",
+     "titel": "Myakka River State Park",
+     "orig": "Finally, in September, 1934, they succeeded in persuading the Internal Improvement Board of the state to purchase 17,500 acres from the estate of Adrian C. Honore, a brother of the late Mrs. Potter Palmer. Then, two weeks later, 1920 acres, comprising the most beautiful part of the whole Myakka River valley, was deeded to the state for park purposes by Honore Palmer and Potter Palmer, as an outright gift in memory of their mother. … During the winter of 1934-35, development of the park was started by CCC workers … The work continued until shortly before Pearl Harbor. Approximately 250 men were employed for over six years. They built roads and bridges, dug drainage ditches, cut out underbrush and constructed pavillions, cabins, rest rooms, barns, garages, a gate house and concession buildings. … The park was officially dedicated February 28, 1941, and was opened to the public June 1, 1942.",
+     "note": "Land bought for a ranch and for resale in 1910 became a public park in 1934: part bought by the state from the Palmers' heirs, part given by Mrs. Palmer's sons. The cattle range of the Myakka, fought over in the tick-dipping years, is now the place visitors come to see."
+    },
+    {
+     "n": 4,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 245",
+     "titel": "Bayfront Park and the Municipal Auditorium",
+     "orig": "The site was obtained by the city from the defunct Sarasota Bay Hotel Co. Taxes amounting to about $15,000 had accumulated on the property and the city secured it by purchasing the tax certificates … The federal government put $131,000 into the project in two grants, the first for $114,000 and the second for $17,000. Skilled labor was paid for by the city out of its general fund; common labor was paid by WPA. Work was started in July, 1937. The auditorium was opened February 24, 1938, for the Sara de Soto celebration. More than 3,000 persons attended.",
+     "note": "Grismer lists the citizens who agreed in March 1937 to advance the money needed to obtain the federal grant; among them is William G. Selby, whose name comes back in the gardens of a later Sarasota (see “What is missing”). The land came from a hotel company the bust had ruined."
+    },
+    {
+     "n": 5,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 248",
+     "titel": "Lido Beach Casino",
+     "orig": "Early in 1938, a tract of land on Lido Beach with 1300 feet of beach frontage was secured from the Ringling Estate in a tax settlement arrangement. Construction of the casino as a WPA project was approved by the government June 13, 1938. The city was required to pay $40,000 in cash, in addition to donating the land. To secure the money, a $40,000 special revenue bond issue was approved 890 to 97 at an election held Tuesday, July 19, 1938. … The casino was formally opened December 27, 1940, with more than a thousand persons attending by special invitation.",
+     "note": "A public beach with a pavilion, built with federal relief money on land the Ringling estate gave up for its taxes. Who was allowed on that beach in 1940 the sources read do not say (see “What is missing”)."
+    }
+   ],
+   "zk": "After the boom, Relief"
+  }
+ ]
+}

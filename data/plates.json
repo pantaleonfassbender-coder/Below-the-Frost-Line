@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain pages, maps and photographs, each with its source.",
- "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Monthly Weather Review, a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Promotional booklets of about 1922 and 1924: State Library of Florida, via Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian, the Manatee River Journal and the Sarasota Herald: Florida Digital Newspaper Library, University of Florida. All in the public domain.",
+ "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Monthly Weather Review, a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Promotional booklets of about 1922 and 1924: State Library of Florida, via Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian, the Manatee River Journal and the Sarasota Herald: Florida Digital Newspaper Library, University of Florida. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. All in the public domain.",
  "plates": [
   {
    "id": "econ1884_head",
@@ -267,6 +267,69 @@
    "titel": "Florida, 1910–1917",
    "caption": "The list continued, among them “ENGLISH, WM. … Bradentown, Manatee Co. … Insulting white woman”, 4 July 1912.",
    "source": "NAACP, Thirty Years of Lynching in the United States, 1889–1918 (1919), p. 56. Internet Archive; public domain."
+  },
+  {
+   "id": "grismer1946_museum",
+   "side": "colony",
+   "titel": "The Ringling museum",
+   "caption": "The loggia of the John and Mable Ringling Museum of Art (photograph by Burnell): “willed to the state by the late John Ringling.”",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), p. 213. Internet Archive; public domain."
+  },
+  {
+   "id": "grismer1946_quarters",
+   "side": "work",
+   "titel": "The winter quarters",
+   "caption": "Elephants in the ring at the winter quarters (photograph by Burnell): the quarters of Ringling Brothers and Barnum & Bailey, “the biggest show on earth”, “attract tourists to Sarasota from all parts of Florida.”",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), p. 215. Internet Archive; public domain."
+  },
+  {
+   "id": "nya1936_ringling",
+   "side": "town",
+   "titel": "Ringling Junior College, 1936",
+   "caption": "The National Youth Administration's directory: “a School of Arts and Sciences, School of Music, and the Ringling School of Art. … Minimum cost per year $500.”",
+   "source": "Directory of Opportunities for Youth in Florida (1936), p. 434. University of Florida Digital Collections; public domain (federal publication)."
+  },
+  {
+   "id": "hearing1937_kimmel",
+   "side": "work",
+   "titel": "Palmer Farms in Congress, 1937",
+   "caption": "J. G. Kimmel of Sarasota before the House Committee on Rivers and Harbors: two muck ponds, 133 artesian wells, and celery as “practically the only industry”.",
+   "source": "Atlantic-Gulf Ship Canal, Fla.: Hearings (1937), p. 299. University of Florida Digital Collections; public domain (federal publication)."
+  },
+  {
+   "id": "rattler1935_mast",
+   "side": "work",
+   "titel": "The Myakka Rattler",
+   "caption": "The masthead of the weekly paper of Company 1421, Civilian Conservation Corps, Sarasota, 2 August 1935, drawn by the enrollees.",
+   "source": "The Myakka Rattler, vol. 2, no. 42, 2 August 1935, cover, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "rattler1935_tel",
+   "side": "work",
+   "titel": "“Another task has been completed”",
+   "caption": "Twelve miles of telephone line from Bee Ridge to the camp, put up by about fourteen enrollees in three weeks.",
+   "source": "The Myakka Rattler, 29 March 1935, p. 5, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "rattler1935_river",
+   "side": "work",
+   "titel": "The river comes back, 1935",
+   "caption": "“The beautiful Myakka River has come back to life again, after a long period of dry weather.”",
+   "source": "The Myakka Rattler, 2 August 1935, p. 3, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "grismer1946_auditorium",
+   "side": "town",
+   "titel": "Where tourists meet and play",
+   "caption": "The Municipal Auditorium in Bayfront Park, built with WPA labour and opened in February 1938; below, lawn bowling and shuffleboard (photographs by Burnell).",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), plate facing p. 246. Internet Archive; public domain."
+  },
+  {
+   "id": "grismer1946_casino",
+   "side": "town",
+   "titel": "Lido Beach Casino",
+   "caption": "“The municipally owned Lido Beach Casino”, opened in December 1940 (photograph by Burnell).",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), p. 247. Internet Archive; public domain."
   }
  ]
 }

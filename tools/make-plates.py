@@ -30,6 +30,7 @@ M1 = Q + "m1/"
 M4 = Q + "m4/"
 M2 = Q + "m2/"
 M3 = Q + "m3/"
+M5 = Q + "m5/"
 
 PLATES = {
     # filled module by module: id -> (kind, source, crop in per mille [, rotation])
@@ -63,6 +64,16 @@ PLATES = {
     "grismer1946_main1910": ("ia", IAP.format("storyofsarasotah00gris", 171), (40, 40, 970, 990)),
     "naacp1919_p55": ("local", M3 + "naacp_p55.jpg", None),
     "naacp1919_p56": ("local", M3 + "naacp_p56.jpg", None),
+    # Modul 5: After the boom
+    "grismer1946_museum": ("ia", IAP.format("storyofsarasotah00gris", 216), (40, 230, 600, 650)),
+    "grismer1946_quarters": ("ia", IAP.format("storyofsarasotah00gris", 218), (40, 410, 970, 960)),
+    "nya1936_ringling": ("local", M5 + "nya1936_ringling.jpg", (40, 590, 960, 790)),
+    "hearing1937_kimmel": ("local", M5 + "hearing1937_kimmel.jpg", None),
+    "rattler1935_mast": ("local", M5 + "rattler1935_mast.jpg", None),
+    "rattler1935_tel": ("local", M5 + "rattler1935_tel.jpg", None),
+    "rattler1935_river": ("local", M5 + "rattler1935_river.jpg", None),
+    "grismer1946_auditorium": ("ia", IAP.format("storyofsarasotah00gris", 249), (40, 40, 970, 980)),
+    "grismer1946_casino": ("ia", IAP.format("storyofsarasotah00gris", 250), (40, 500, 970, 920)),
     # Modul 4: The county and the boom
     "mrj1921_boundary": ("local", M4 + "mrj1921_boundary.png", (0, 430, 560, 860)),
     "mrj1921_bunkley": ("local", M4 + "mrj1921_bunkley.png", None),

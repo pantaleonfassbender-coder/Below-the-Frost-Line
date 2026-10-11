@@ -284,6 +284,64 @@
      "wer": "Karl H. Grismer, 1946"
     }
    ]
+  },
+  {
+   "id": "myakka",
+   "titel": "The Myakka, three times",
+   "frage": "What was the Myakka valley for?",
+   "note": "In 1910 Mrs. Palmer bought it for a ranch and resale; in 1916 she asked Washington to drain the river; in 1934 her heirs sold and gave it to the state for a park, on which the Civilian Conservation Corps worked for six years.",
+   "voices": [
+    {
+     "text": "rails",
+     "sec": "palmer",
+     "n": [
+      4,
+      5
+     ],
+     "wer": "Grismer, 1946; Manatee River Journal, 1916"
+    },
+    {
+     "text": "bust",
+     "sec": "relief",
+     "n": [
+      3
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    },
+    {
+     "text": "bust",
+     "sec": "relief",
+     "n": [
+      2
+     ],
+     "wer": "The Myakka Rattler, 1935"
+    }
+   ]
+  },
+  {
+   "id": "goal",
+   "titel": "Twenty-five thousand",
+   "frage": "How did the boom's goal compare with the count?",
+   "note": "A booklet of about 1924 set the goal of twenty-five thousand permanent residents within five years. The census of 1930 counted 8,398 in the city; the city owed about $6,200,000, much of it for streets in empty subdivisions.",
+   "voices": [
+    {
+     "text": "boom",
+     "sec": "selling",
+     "n": [
+      3
+     ],
+     "wer": "Booklet, about 1924"
+    },
+    {
+     "text": "bust",
+     "sec": "bust",
+     "n": [
+      4,
+      3
+     ],
+     "wer": "Census, 1930; Grismer, 1946"
+    }
+   ]
   }
  ]
 }

@@ -35,16 +35,18 @@
    "quelle": "Manatee River Journal 1921; Monthly Weather Review 1921; booklets of about 1922 and 1924; Sarasota Herald 1925–26; Grismer (1946).",
    "datei": "boom",
    "zk": "County · Storm · Selling · Colour line"
-  }
- ],
- "planned": [
+  },
   {
    "id": "bust",
    "side": "work",
    "kurz": "5 · After the boom",
-   "warum": "The boom ended in 1926. In the years that followed the celery fields of Palmer Farms, worked mostly by Black labourers, the trailer camps of winter visitors, the Civilian Conservation Corps at Myakka, and the Works Progress Administration's auditorium and beach casino carried the town; the Ringling museum and art school opened.",
-   "quelle": "Census 1930; Ship-canal hearings 1937; Myakka Rattler (CCC camp paper) 1934–35; Florida state park reports; National Youth Administration directory 1936; Grismer (1946)."
-  },
+   "warum": "After 1926 most of the boom's fortunes and four banks were gone, and the city and county owed more than thirteen million dollars. The circus came for the winter, a museum and an art school opened, celery was grown on drained muck by Black labourers, trailer tourists filled Payne Park, and federal relief built Myakka River State Park, an auditorium and a beach casino.",
+   "quelle": "Grismer (1946); census 1930; ship-canal hearings 1937; Myakka Rattler 1935; NYA directory 1936.",
+   "datei": "bust",
+   "zk": "Bust · Circus and museum · Celery and trailers · Relief"
+  }
+ ],
+ "planned": [
   {
    "id": "airfield",
    "side": "town",
@@ -65,7 +67,7 @@
    "id": "bust",
    "side": "promise",
    "kurz": "The bust in its own record",
-   "warum": "The digitized Sarasota Herald ends in August 1926. For the collapse of the boom, the hurricane of September 1926, the Depression and the town's debts, no public-domain local source has been found yet; Grismer speaks only of a mayor who “succeeded in refunding the city's debt”.",
+   "warum": "The digitized Sarasota Herald ends in August 1926. The collapse, the hurricane of September 1926, the bank failures and the town's debts are told in module 5 only from Grismer's history of 1946. The Herald of 1926–1938 (catalogued at the University of Florida but not online), the records of the bondholders' settlement and Florida's banking reports would be needed.",
    "quelle": "—"
   },
   {
@@ -193,6 +195,20 @@
    "kurz": "The directory of 1916",
    "warum": "The Bradentown city directory of 1916 includes Sarasota and marks each resident as white or coloured; counted, it would show where Black and white residents lived and worked. It has not yet been read through.",
    "quelle": "Bradentown City Directory 1916 (UFDC AA00053890)."
+  },
+  {
+   "id": "celeryworkers",
+   "side": "colour",
+   "kurz": "The celery workers",
+   "warum": "Grismer counts those employed in the celery crop in the 1940s as “70 per cent … negroes”. Their wages, housing and camps in the 1920s and 1930s, and any labour dispute, have not been found in public-domain sources.",
+   "quelle": "To be found (farm labour reports, Florida Department of Agriculture)."
+  },
+  {
+   "id": "cccsegregation",
+   "side": "colour",
+   "kurz": "Who served in the CCC at Myakka",
+   "warum": "Company 1421's paper names its enrollees but nowhere states their colour. Whether Black young men served at Myakka, in this company or another, has not been found in the sources read.",
+   "quelle": "Florida CCC records; Myakka Rattler, full run."
   }
  ]
 }
