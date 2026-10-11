@@ -83,6 +83,94 @@
      "wer": "Karl H. Grismer, 1946"
     }
    ]
+  },
+  {
+   "id": "frost",
+   "titel": "Below the frost line",
+   "frage": "What did Sarasota promise about its winters, and what happened?",
+   "note": "In 1884 an Edinburgh prospectus sold land on the bay as lying “below the frost line”; a colonist remembered the snow of January 1886. In about 1922 a county booklet promised a place “free from chilling frost dangers and discomforts”. The promise outlived the colony by forty years.",
+   "voices": [
+    {
+     "text": "prospectus",
+     "sec": "prospectus",
+     "n": [
+      6
+     ],
+     "wer": "Florida Mortgage and Investment Co., 1884"
+    },
+    {
+     "text": "prospectus",
+     "sec": "colony",
+     "n": [
+      5
+     ],
+     "wer": "Alex Browning, January 1886"
+    },
+    {
+     "text": "boom",
+     "sec": "selling",
+     "n": [
+      1
+     ],
+     "wer": "County booklet, about 1922"
+    }
+   ]
+  },
+  {
+   "id": "keys",
+   "titel": "The keys",
+   "frage": "How were the keys sold?",
+   "note": "A booklet of about 1924 announced that the keys would become “the theater of the most ambitious and artistic landscape development ever attempted in Florida”. In February 1926 the causeway opened with concerts and free buses; the town historian of 1946 doubted the million dollars of sales reported for the first day.",
+   "voices": [
+    {
+     "text": "boom",
+     "sec": "selling",
+     "n": [
+      2
+     ],
+     "wer": "Booklet, about 1924"
+    },
+    {
+     "text": "boom",
+     "sec": "selling",
+     "n": [
+      5
+     ],
+     "wer": "John Ringling Estates, February 1926"
+    },
+    {
+     "text": "boom",
+     "sec": "selling",
+     "n": [
+      6
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    }
+   ]
+  },
+  {
+   "id": "mob",
+   "titel": "Two killings, 1921",
+   "frage": "How did the law meet violence in the county's first year?",
+   "note": "In January 1921 a mob gathered a rope for a white man suspected of killing a former mayor; the sheriff took him away and he was released for want of evidence. In June a white guard was bound over for the murder of a Black prisoner whom the paper does not name. What became of that case is not known.",
+   "voices": [
+    {
+     "text": "boom",
+     "sec": "county",
+     "n": [
+      4
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    },
+    {
+     "text": "boom",
+     "sec": "county",
+     "n": [
+      2
+     ],
+     "wer": "Manatee River Journal, June 1921"
+    }
+   ]
   }
  ]
 }

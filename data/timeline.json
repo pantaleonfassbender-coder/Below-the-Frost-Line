@@ -145,25 +145,102 @@
    "quelle": "Grismer, The Story of Sarasota (1946), p. 179."
   },
   {
+   "d": "6 January 1921",
+   "side": "law",
+   "titel": "A mob with a rope",
+   "text": "Harry L. Higel, three times mayor, is found dying on Siesta Key. When a suspect is brought to Sarasota, “a mob began gathering. A rope was hurriedly secured”; the sheriff takes him to Bradenton. He is released; the murder is never solved.",
+   "cite": "#/text/boom/county/4",
+   "citeLabel": "The boom, 1921 [4]",
+   "quelle": "Grismer, The Story of Sarasota (1946), pp. 202–203."
+  },
+  {
+   "d": "May 1921",
+   "side": "town",
+   "titel": "The line",
+   "text": "Committees in Bradentown agree on the line: “All north of this boundary to remain as Manatee county, and all south to become Sarasota county.”",
+   "cite": "#/text/boom/county/1",
+   "citeLabel": "The boom, 1921 [1]",
+   "plate": "mrj1921_boundary",
+   "quelle": "Manatee River Journal, 5 May 1921, p. 1."
+  },
+  {
    "d": "June 1921",
    "side": "law",
    "titel": "A guard held for murder",
    "text": "J. R. Bunkley, “former convict guard, who is being held for the murder of a negro prisoner at Salt Springs”, is bound over on a bond of $5,000 until the grand jury of Sarasota County meets. In the same week the Governor appoints the officials of the new county.",
-   "quelle": "Manatee River Journal, 23 June 1921, p. 1."
+   "quelle": "Manatee River Journal, 23 June 1921, p. 1.",
+   "cite": "#/text/boom/county/2",
+   "citeLabel": "The boom, 1921 [2]",
+   "plate": "mrj1921_bunkley"
+  },
+  {
+   "d": "25 October 1921",
+   "side": "work",
+   "titel": "The bayfront goes",
+   "text": "A hurricane comes ashore north of Tampa. At Sarasota the fish houses, the railroad dock, boats and nets and most of the municipal pier are destroyed.",
+   "cite": "#/text/boom/storm/2",
+   "citeLabel": "The boom, 1921 [storm 2]",
+   "plate": "mwr1921_damage",
+   "quelle": "Monthly Weather Review, October 1921, p. 570; Grismer (1946), p. 204."
+  },
+  {
+   "d": "about 1924",
+   "side": "promise",
+   "titel": "Twenty-five thousand",
+   "text": "A booklet sets “the great goal”: “a city of twenty-five thousand permanent residents within the next five years”.",
+   "cite": "#/text/boom/selling/3",
+   "citeLabel": "The boom [selling 3]",
+   "plate": "glor1924_goal",
+   "quelle": "Sarasota: A City of Glorified Opportunity (about 1924), p. [4]."
   },
   {
    "d": "17 November 1925",
    "side": "law",
    "titel": "The Klan at the circus",
    "text": "“Approximately 150 local Klansmen attended the circus in full Klan regalia. A huge Klan parade was held immediately before the start of the evening's program.”",
-   "quelle": "Sarasota Herald, 17 November 1925, p. 7."
+   "quelle": "Sarasota Herald, 17 November 1925, p. 7.",
+   "cite": "#/text/boom/colour/3",
+   "citeLabel": "The colour line in the boom [3]",
+   "plate": "herald1925_klan"
+  },
+  {
+   "d": "29 November 1925",
+   "side": "law",
+   "titel": "“White Supremacy”",
+   "text": "The Klan advertises in the Sarasota Herald: it stands for “LAW and ORDER … White Supremacy and Protestant Christianity”.",
+   "cite": "#/text/boom/colour/4",
+   "citeLabel": "The colour line in the boom [4]",
+   "plate": "herald1925_klanad",
+   "quelle": "Sarasota Herald, 29 November 1925, p. 8."
+  },
+  {
+   "d": "7 February 1926",
+   "side": "promise",
+   "titel": "The causeway opens",
+   "text": "John Ringling's causeway to St. Armands and Lido opens to the public; homesites from $3,000, concerts by the Czecho-Slovakian National Band.",
+   "cite": "#/text/boom/selling/5",
+   "citeLabel": "The boom [selling 5]",
+   "plate": "herald1926_causeway",
+   "quelle": "Grismer (1946), pp. 212–213; Sarasota Herald, 19 February 1926, p. 24."
+  },
+  {
+   "d": "17 August 1926",
+   "side": "colour",
+   "titel": "Inside the city?",
+   "text": "Six men from Newtown are jailed after arguing whether “the new negro quarters, should be included in Greater Sarasota”.",
+   "cite": "#/text/boom/colour/5",
+   "citeLabel": "The colour line in the boom [5]",
+   "quelle": "Sarasota Herald, 18 August 1926, p. 5."
   },
   {
    "d": "18 August 1926",
    "side": "colour",
    "titel": "A hotel for the colored tourist trade",
    "text": "E. O. Burns announces a $15,000 hotel on Central near Fourteenth Street that “will cater to the colored tourist trade”, to be named for Louis Colson, who had worked in the home of J. H. Gillespie and died about two years before.",
-   "quelle": "Sarasota Herald, 18 August 1926, p. 5."
+   "quelle": "Sarasota Herald, 18 August 1926, p. 5.",
+   "cite": "#/text/boom/colour/6",
+   "citeLabel": "The colour line in the boom [6]",
+   "plate": "herald1926_newtown"
   },
   {
    "d": "3 May 1927",

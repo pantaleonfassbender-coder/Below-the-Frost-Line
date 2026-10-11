@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-labelledby="bp-t bp-d" font-family="var(--serif)">
+<title id="bp-t">Promised and counted</title><desc id="bp-d">Population of the city of Sarasota by the census: 840 in 1910, 2,149 in 1920, 8,398 in 1930. A booklet of about 1924 set the goal of 25,000 permanent residents within five years.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">Promised and counted</text>
+<a href="#/text/boom/selling/3"><text x="16" y="48" font-size="13" fill="var(--ink2)" text-decoration="underline">The city of Sarasota in the census, and the goal of a booklet of about 1924. Link to the passage.</text></a>
+<line x1="90" y1="330" x2="860" y2="330" stroke="var(--line)"/><text x="82" y="334" font-size="12" text-anchor="end" fill="var(--ink2)">0</text>
+<line x1="90" y1="282" x2="860" y2="282" stroke="var(--line)"/><text x="82" y="286" font-size="12" text-anchor="end" fill="var(--ink2)">5,000</text>
+<line x1="90" y1="234" x2="860" y2="234" stroke="var(--line)"/><text x="82" y="238" font-size="12" text-anchor="end" fill="var(--ink2)">10,000</text>
+<line x1="90" y1="186" x2="860" y2="186" stroke="var(--line)"/><text x="82" y="190" font-size="12" text-anchor="end" fill="var(--ink2)">15,000</text>
+<line x1="90" y1="138" x2="860" y2="138" stroke="var(--line)"/><text x="82" y="142" font-size="12" text-anchor="end" fill="var(--ink2)">20,000</text>
+<line x1="90" y1="90" x2="860" y2="90" stroke="var(--line)"/><text x="82" y="94" font-size="12" text-anchor="end" fill="var(--ink2)">25,000</text>
+<rect x="560" y="90" width="120" height="240" fill="none" stroke="var(--promise)" stroke-width="2.5" stroke-dasharray="7 5"/><text x="620" y="80" font-size="13" text-anchor="middle" fill="var(--promise)" font-weight="bold">25,000 by about 1929</text><text x="620" y="112" font-size="12" text-anchor="middle" fill="var(--promise)">the booklet’s “great goal”</text>
+<rect x="150" y="321.9" width="80" height="8.1" fill="var(--town)"/><text x="190" y="314" font-size="13" text-anchor="middle" fill="var(--ink)">840</text><text x="190" y="350" font-size="13" text-anchor="middle" fill="var(--ink)">1910</text>
+<rect x="355" y="309.3" width="80" height="20.7" fill="var(--town)"/><text x="395" y="301" font-size="13" text-anchor="middle" fill="var(--ink)">2,149</text><text x="395" y="350" font-size="13" text-anchor="middle" fill="var(--ink)">1920</text>
+<rect x="580" y="249.2" width="80" height="80.8" fill="var(--town)"/><text x="620" y="241" font-size="13" text-anchor="middle" fill="var(--ink)">8,398</text><text x="620" y="350" font-size="13" text-anchor="middle" fill="var(--ink)">1930</text>
+<text x="16" y="374" font-size="12" fill="var(--ink2)">Census counts: Fifteenth Census of the United States, 1930, Population vol. I, Florida, table 4, p. 213. In 1930 Sarasota County counted 12,440.</text>
+</svg>

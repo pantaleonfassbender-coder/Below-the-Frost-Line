@@ -8,6 +8,15 @@
    "quelle": "The Economist 1884; Florida Reports 1886 and 1888; The Pensacolian and The Atlanta Constitution 1885; Chicago Daily Tribune 1886; Florida gazetteer 1886–87; Time (London) 1887; Grismer (1946).",
    "datei": "prospectus",
    "zk": "Prospectus · Vigilance committee · Colony · Verdicts"
+  },
+  {
+   "id": "boom",
+   "side": "promise",
+   "kurz": "4 · The county and the boom",
+   "warum": "In 1921 Sarasota became the seat of its own county, in a year of a mob with a rope, a Black prisoner killed at a convict camp and a hurricane on the bayfront. In the boom of 1925–26 booklets promised twenty-five thousand residents, John Ringling's causeway opened the keys, the Klan paraded and advertised, and Newtown argued whether to belong to the city.",
+   "quelle": "Manatee River Journal 1921; Monthly Weather Review 1921; booklets of about 1922 and 1924; Sarasota Herald 1925–26; Grismer (1946).",
+   "datei": "boom",
+   "zk": "County · Storm · Selling · Colour line"
   }
  ],
  "planned": [
@@ -24,13 +33,6 @@
    "kurz": "3 · Rails and patrons",
    "warum": "The railroad reached Sarasota in 1903. Winter residents with great fortunes followed: Bertha Palmer of Chicago from 1910, John Ringling of the circus from 1911. From about 1914 Black families built homes in Newtown, outside the town.",
    "quelle": "Manatee River Journal 1903–1921; Bradentown City Directory 1916 (with Sarasota); census 1910 and 1920; Grismer (1946)."
-  },
-  {
-   "id": "boom",
-   "side": "promise",
-   "kurz": "4 · The county and the boom",
-   "warum": "In 1921 Sarasota became the seat of its own county. In the same year a hurricane struck the waterfront and a former convict guard was held for the murder of a Black prisoner. In the boom of 1925–26 lots, hotels and islands were sold, the causeway to the keys opened, the Klan paraded, and a hotel for Black tourists was planned.",
-   "quelle": "Manatee River Journal 1921; Monthly Weather Review, October 1921; promotional booklets of about 1922 and 1924; Sarasota Herald, October 1925 to August 1926."
   },
   {
    "id": "bust",
@@ -80,7 +82,7 @@
    "id": "bunkley",
    "side": "law",
    "kurz": "The prisoner killed at Salt Springs, 1921",
-   "warum": "A newspaper of June 1921 reports that a former convict guard, J. R. Bunkley, was held for the murder of a Black prisoner at Salt Springs and bound over to the grand jury of Sarasota County. The prisoner is not named and the outcome has not been found.",
+   "warum": "The Manatee River Journal of 23 June 1921 reports that a former convict guard, J. R. Bunkley, was held for the murder of a Black prisoner at Salt Springs and bound over to the grand jury of Sarasota County (printed in module 4). The prisoner is not named, and the outcome — indictment, trial, verdict — has not been found. The county's court records and Florida's reports on its convict camps of 1921–22 would be needed.",
    "quelle": "—"
   },
   {
@@ -138,6 +140,20 @@
    "kurz": "The bay before 1884",
    "warum": "The Calusa, the Cuban and Spanish fishing ranchos on the bay, the Seminole wars and the Whitakers' settlement of the 1840s are told here only in passing. The federal documents on the fishing ranchos of the 1830s and the naval records of the Civil War on the bay have been found but not yet read against the page image.",
    "quelle": "Congressional documents of the 1830s; Official Records of the Union and Confederate Navies, vol. 17 (1903)."
+  },
+  {
+   "id": "act1921",
+   "side": "town",
+   "kurz": "The act creating Sarasota County",
+   "warum": "The act of the Florida legislature of 1921 that created the county has not yet been read at its source; the apparatus prints the boundary as the Bradentown paper reported it.",
+   "quelle": "Laws of Florida 1921."
+  },
+  {
+   "id": "newtownvoice",
+   "side": "colour",
+   "kurz": "Newtown in its own words",
+   "warum": "The digitized papers of the boom were written by and for white Sarasota. No Black newspaper, church record or letter from Newtown in the 1920s has been found in a public-domain source; the quarter speaks here only through police notes and announcements.",
+   "quelle": "To be found."
   }
  ]
 }

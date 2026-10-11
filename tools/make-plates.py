@@ -27,6 +27,7 @@ IAP = "https://archive.org/download/{}/page/n{}.jpg"
 
 Q = "../quellen/"
 M1 = Q + "m1/"
+M4 = Q + "m4/"
 
 PLATES = {
     # filled module by module: id -> (kind, source, crop in per mille [, rotation])
@@ -41,6 +42,18 @@ PLATES = {
     "grismer1946_whitaker": ("ia", IAP.format("storyofsarasotah00gris", 46), (30, 430, 980, 960)),
     "gaz1886_sarasota": ("local", M1 + "gaz1886_sarasota.png", None),
     "time1887_notorious": ("local", M1 + "time1887_notorious.png", None),
+    # Modul 4: The county and the boom
+    "mrj1921_boundary": ("local", M4 + "mrj1921_boundary.png", (0, 430, 560, 860)),
+    "mrj1921_bunkley": ("local", M4 + "mrj1921_bunkley.png", None),
+    "mwr1921_damage": ("local", M4 + "mwr1921_damage.png", None),
+    "arnold1922_cover": ("ia", IAP.format("sarasota-county-1922", 1), (100, 60, 960, 1000)),
+    "glor1924_cover": ("ia", IAP.format("sarasotacityofglorifiedopportunity", 0), None),
+    "glor1924_goal": ("pdf", M4 + "glor1924.pdf::4", (50, 580, 960, 930)),
+    "herald1926_causeway": ("local", M4 + "herald1926_causeway.png", None),
+    "herald1925_klan": ("local", M4 + "herald1925_klan.png", None),
+    "herald1925_klanad": ("local", M4 + "herald1925_klanad.png", (0, 0, 780, 1000)),
+    "herald1926_morgan": ("local", M4 + "herald1926_morgan.png", (0, 0, 420, 620)),
+    "herald1926_newtown": ("local", M4 + "herald1926_newtown.png", None),
 }
 
 

@@ -6,12 +6,12 @@ It asks who was promised what, who came and who left, and who belonged to the to
 
 Live: https://below-the-frost-line.netlify.app/
 
-**Status (October 2026):** module 1 printed (31 passages, 10 plates, one graphic, three comparisons); five to follow.
+**Status (October 2026):** modules 1 and 4 printed (49 passages, 21 plates, two graphics, six comparisons); four to follow.
 
 1. **The prospectus and the colony, 1884–1888** — the Edinburgh prospectus of October 1884 (“below the frost line”); the Sara Sota Vigilance Committee, the killings of Harrison T. Riley and Charles E. Abbe, the trials and the Supreme Court; the Scottish colony of December 1885, Tait's letter, the snow, Dan McKinlay's diary; the verdicts of 1886, 1887 and 1946.
 2. **The village, 1887–1902**
 3. **Rails and patrons, 1903–1920**
-4. **The county and the boom, 1921–1926**
+4. **The county and the boom, 1921–1926** — the line between Manatee and Sarasota counties; the murder of Harry L. Higel and the mob; a Black prisoner killed at Salt Springs; the hurricane of October 1921; the booklets of about 1922 and 1924 (“twenty-five thousand permanent residents”); John Ringling's causeway; Booker school, “Wildcat” Morgan, the Klan's circus and advertisement, Newtown's argument over joining the city and the hotel named for Lewis Colson.
 5. **After the boom, 1926–1941**
 6. **The airfield and the book, 1942–1946**
 
@@ -22,7 +22,7 @@ What is **not carried**, and why, is listed on the Texts page (`data/modules.jso
 ## Files
 
 - `data/modules.json`: the modules carried and planned, and what is not carried and why.
-- `data/prospectus.json`: the texts of module 1.
+- `data/prospectus.json`, `data/boom.json`: the texts of modules 1 and 4.
 - `data/timeline.json`, `data/compare.json`, `data/plates.json`.
 - `tools/build-frame.py` (once, before the first module), later `tools/build-<module>.py`, `tools/viz-<module>.py`, `tools/make-plates.py`. The plate script reads page images and PDFs from the project's source folder (`../quellen`, not in this repository), where the check log (`PRUEFUNG.md`) records for each passage the page image it was read against.
 

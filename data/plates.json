@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain pages, maps and photographs, each with its source.",
- "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian: Florida Digital Newspaper Library, University of Florida. All in the public domain.",
+ "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), the Monthly Weather Review, a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Promotional booklets of about 1922 and 1924: State Library of Florida, via Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian, the Manatee River Journal and the Sarasota Herald: Florida Digital Newspaper Library, University of Florida. All in the public domain.",
  "plates": [
   {
    "id": "econ1884_head",
@@ -71,6 +71,83 @@
    "titel": "“The now notorious colony”, 1887",
    "caption": "A London monthly on the colony: “the youngest of a long series of Scottish failures in attempting to colonise a region utterly unsuited for them”, and on the board that had never been to Florida.",
    "source": "W. R. Lawson, “Scottish Colonies on the Gulf of Mexico”, Time (London), April 1887, p. 479. Internet Archive; public domain."
+  },
+  {
+   "id": "mrj1921_boundary",
+   "side": "town",
+   "titel": "Where the line should run, 1921",
+   "caption": "The Bradentown paper reports the boundary agreed by the joint committees: all north to remain Manatee County, “and all south to become Sarasota county.”",
+   "source": "Manatee River Journal, 5 May 1921, p. 1, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "mrj1921_bunkley",
+   "side": "law",
+   "titel": "Salt Springs and the new county, 1921",
+   "caption": "Two items on one page: a former convict guard held for the murder of a Black prisoner at Salt Springs, and the Governor's appointment of the officials of Sarasota County.",
+   "source": "Manatee River Journal, 23 June 1921, p. 1, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "mwr1921_damage",
+   "side": "work",
+   "titel": "The hurricane of October 1921",
+   "caption": "The Weather Bureau on the losses: citrus, truck crops “a complete loss in many instances”, and damage to docks and buildings at Tampa, Tarpon Springs, St. Petersburg, Sarasota and southward.",
+   "source": "Monthly Weather Review, October 1921, p. 570, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "arnold1922_cover",
+   "side": "promise",
+   "titel": "“A Land of Opportunities and Resources”",
+   "caption": "The cover of a promotional booklet of about 1922: “A Glimpse of Sarasota from the Air”, the town on the bay with the pier and the railroad.",
+   "source": "Sarasota County, Florida (published by T. F. Arnold, about 1922), cover. State Library of Florida, via Internet Archive; Public Domain Mark."
+  },
+  {
+   "id": "glor1924_cover",
+   "side": "promise",
+   "titel": "“A City of Glorified Opportunity”",
+   "caption": "The cover of a booklet of about 1924: a golfer, a woman on water skis, a parasol on the beach. Its title is the title of the companion game.",
+   "source": "Sarasota: A City of Glorified Opportunity (about 1924), cover. State Library of Florida, via Internet Archive; Public Domain Mark."
+  },
+  {
+   "id": "glor1924_goal",
+   "side": "promise",
+   "titel": "Twenty-five thousand in five years",
+   "caption": "“… to make Sarasota a city of twenty-five thousand permanent residents within the next five years with more than double that number in winter.”",
+   "source": "Sarasota: A City of Glorified Opportunity (about 1924), p. [4], detail. State Library of Florida, via Internet Archive; Public Domain Mark."
+  },
+  {
+   "id": "herald1926_causeway",
+   "side": "promise",
+   "titel": "The causeway open, 1926",
+   "caption": "John Ringling Estates: homesites from $3,000, “Five minutes from the heart of the city over the magnificent Causeway”, daily concerts on St. Armands, free buses every hour.",
+   "source": "Sarasota Herald, 19 February 1926, p. 24, advertisement, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "herald1925_klan",
+   "side": "law",
+   "titel": "Rooms, and the Klan, 1925",
+   "caption": "One page of the boom: “People are actually leaving Sarasota because they can find no place to live”, and, in the next column, “Approximately 150 local Klansmen attended the circus in full Klan regalia.”",
+   "source": "Sarasota Herald, 17 November 1925, p. 7, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "herald1925_klanad",
+   "side": "law",
+   "titel": "A Klan advertisement, 1925",
+   "caption": "“Knights of the Ku Klux Klan”: a recruiting advertisement in the daily paper, ending with “White Supremacy and Protestant Christianity” and a Sarasota post office box. The large pencilled “30” is a later mark on the copy that was filmed.",
+   "source": "Sarasota Herald, 29 November 1925, p. 8, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "herald1926_morgan",
+   "side": "colour",
+   "titel": "“Colored police sergeant”, 1926",
+   "caption": "“Willie Johnson was arrested last night in Newtown by ‘Wildcat’ Morgan, colored police sergeant …”",
+   "source": "Sarasota Herald, 13 May 1926, p. 9, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "herald1926_newtown",
+   "side": "colour",
+   "titel": "Newtown and the city, 1926",
+   "caption": "“Jail Negroes for Fighting”: six men argue whether Newtown should be part of Greater Sarasota; beside it, “$15,000 Negro Hostelry Will Be Built Here”, to be named for Louis (Lewis) Colson.",
+   "source": "Sarasota Herald, 18 August 1926, p. 5, two column sections set side by side. Florida Digital Newspaper Library, University of Florida; public domain."
   }
  ]
 }
