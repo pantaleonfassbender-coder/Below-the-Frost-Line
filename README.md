@@ -21,7 +21,7 @@ With 51 public-domain plates (newspaper pages, court reports, promotional bookle
 
 What is **not carried**, and why, is listed on the Texts page (`data/modules.json`, key `missing`, 24 entries): among them the Sarasota Times of 1899–1929 and the bust in its own record (not digitized), the prisoner killed at Salt Springs (unnamed, outcome not found), Newtown in its own words, the celery workers, the beaches, and two chapters left open for later: William and Marie Selby, and the art colony.
 
-**Companion game:** [*A City of Glorified Opportunity*](https://a-city-of-glorified-opportunity.netlify.app/) (free).
+**Companion game:** [*A City of Glorified Opportunity*](https://a-city-of-glorified-opportunity.netlify.app/) (free; also on itch.io: https://leofassb.itch.io/a-city-of-glorified-opportunity).
 
 ## Files
 
