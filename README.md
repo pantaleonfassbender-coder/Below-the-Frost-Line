@@ -1,5 +1,7 @@
 # Below the Frost Line
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23291691.svg)](https://doi.org/10.5281/zenodo.23291691)
+
 Sarasota, 1884–1946: a documentary apparatus in English, built from public-domain sources read against the page images. From the Edinburgh prospectus of 1884 that offered 47,000 acres on Sarasota Bay “below the frost line”, and the Scottish colonists who saw snow in their first winter, to the vigilance murders of 1884, the village and the town of 1902, the railroad and the winter residents, the county of 1921, the boom and the bust, Newtown and the celery fields, the work-relief buildings of the 1930s, the Army air base of the war, and the town's own history of 1946.
 
 It asks who was promised what, who came and who left, and who belonged to the town and who was kept at its edge.
@@ -32,7 +34,7 @@ Static site without a build step: `index.html`, `app.js` (hash routes; engine ad
 
 ## Citation
 
-Fassbender, Pantaleon. *Below the Frost Line: Sarasota, 1884–1946. A Documentary Apparatus.* 2026. Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *Below the Frost Line: Sarasota, 1884–1946. A Documentary Apparatus.* 2026. https://doi.org/10.5281/zenodo.23291691 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23291692). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 ## Licences
 
