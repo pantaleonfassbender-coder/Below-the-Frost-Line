@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain pages, maps and photographs, each with its source.",
- "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Monthly Weather Review, a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Promotional booklets of about 1922 and 1924: State Library of Florida, via Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian, the Manatee River Journal and the Sarasota Herald: Florida Digital Newspaper Library, University of Florida. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. All in the public domain.",
+ "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Monthly Weather Review, a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Promotional booklets of about 1922 and 1924: State Library of Florida, via Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian, the Manatee River Journal and the Sarasota Herald: Florida Digital Newspaper Library, University of Florida. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. Federal hearings and directories: University of Florida Digital Collections. The Myakka Rattler: Internet Archive. The Sarasota quadrangle of 1944: U.S. Geological Survey. All in the public domain.",
  "plates": [
   {
    "id": "econ1884_head",
@@ -330,6 +330,34 @@
    "titel": "Lido Beach Casino",
    "caption": "“The municipally owned Lido Beach Casino”, opened in December 1940 (photograph by Burnell).",
    "source": "Karl H. Grismer, The Story of Sarasota (1946), p. 247. Internet Archive; public domain."
+  },
+  {
+   "id": "usgs1944_sarasota",
+   "side": "town",
+   "titel": "Sarasota in 1944",
+   "caption": "The northern part of the Sarasota quadrangle, mapped by the Army Map Service from air photographs of 1942: the town in red, Booker School in the Black quarter to the north, Payne Terminal on the bay, the municipal airport of 1929 to the east (Grismer places it at the entrance of the circus winter quarters), the Ringling causeway at the foot.",
+   "source": "Sarasota quadrangle, Florida, 1:24,000, 1944, detail. U.S. Geological Survey, Historical Topographic Map Collection; public domain."
+  },
+  {
+   "id": "lcj1944_tooke",
+   "side": "work",
+   "titel": "The rescue boats, 1944",
+   "caption": "“The Commanding Officer of the Sarasota Army Air Base … today announced the promotion of Sgt. William Tooke, of Cedar Key”, master of a 35-foot crash boat.",
+   "source": "Levy County Journal, 30 March 1944, p. 1, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "grismer1946_appreciation",
+   "side": "town",
+   "titel": "Appreciation, 1946",
+   "caption": "Grismer's thanks: the families who supplied memories, the editors who read his manuscript “checking for accuracy”, and the Chamber of Commerce and clubs “who sponsored publication of the history.”",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), front matter. Internet Archive; public domain."
+  },
+  {
+   "id": "grismer1946_prologue",
+   "side": "colour",
+   "titel": "Prologue, 1946",
+   "caption": "“Just the story of the Land of Sarasota—and nothing more.” The prologue in which the town's history begins with conquistadors, “lesser races”, and newcomers who came “not to gain riches”.",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), front matter. Internet Archive; public domain."
   }
  ]
 }

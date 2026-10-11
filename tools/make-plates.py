@@ -31,6 +31,7 @@ M4 = Q + "m4/"
 M2 = Q + "m2/"
 M3 = Q + "m3/"
 M5 = Q + "m5/"
+M6 = Q + "m6/"
 
 PLATES = {
     # filled module by module: id -> (kind, source, crop in per mille [, rotation])
@@ -74,6 +75,11 @@ PLATES = {
     "rattler1935_river": ("local", M5 + "rattler1935_river.jpg", None),
     "grismer1946_auditorium": ("ia", IAP.format("storyofsarasotah00gris", 249), (40, 40, 970, 980)),
     "grismer1946_casino": ("ia", IAP.format("storyofsarasotah00gris", 250), (40, 500, 970, 920)),
+    # Modul 6: The airfield and the book
+    "usgs1944_sarasota": ("pdf", M6 + "topo1944.pdf::1", (450, 30, 1000, 400)),
+    "lcj1944_tooke": ("local", M6 + "lcj1944_tooke.png", None),
+    "grismer1946_appreciation": ("ia", IAP.format("storyofsarasotah00gris", 9), (60, 120, 960, 880)),
+    "grismer1946_prologue": ("ia", IAP.format("storyofsarasotah00gris", 10), (60, 180, 960, 840)),
     # Modul 4: The county and the boom
     "mrj1921_boundary": ("local", M4 + "mrj1921_boundary.png", (0, 430, 560, 860)),
     "mrj1921_bunkley": ("local", M4 + "mrj1921_bunkley.png", None),

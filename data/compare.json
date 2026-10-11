@@ -342,6 +342,63 @@
      "wer": "Census, 1930; Grismer, 1946"
     }
    ]
+  },
+  {
+   "id": "noroom",
+   "titel": "No place to live",
+   "frage": "What happened when the town filled up?",
+   "note": "In the boom of 1925 a real estate firm warned that people were leaving Sarasota for want of rooms. In 1945–46 servicemen and winter visitors filled every house; the federal government froze rents, and the city voted for a manager to avoid “the growing-pain headaches of the Roaring Twenties”.",
+   "voices": [
+    {
+     "text": "boom",
+     "sec": "selling",
+     "n": [
+      4
+     ],
+     "wer": "Sarasota Herald, November 1925"
+    },
+    {
+     "text": "airfield",
+     "sec": "war",
+     "n": [
+      2,
+      3
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    }
+   ]
+  },
+  {
+   "id": "nothingmore",
+   "titel": "Whose story?",
+   "frage": "How did Sarasota's first histories frame the town?",
+   "note": "The prospectus of 1884 promised land “below the frost line”; the booklet of about 1924 promised “the kind of people you want them to mingle with”; Grismer's prologue of 1946 promised “just the story of the Land of Sarasota—and nothing more”, and began it with “lesser races”.",
+   "voices": [
+    {
+     "text": "prospectus",
+     "sec": "prospectus",
+     "n": [
+      6
+     ],
+     "wer": "Prospectus, 1884"
+    },
+    {
+     "text": "boom",
+     "sec": "selling",
+     "n": [
+      1
+     ],
+     "wer": "County booklet, about 1922"
+    },
+    {
+     "text": "airfield",
+     "sec": "book",
+     "n": [
+      2
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    }
+   ]
   }
  ]
 }

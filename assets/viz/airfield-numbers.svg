@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" role="img" aria-labelledby="an-t an-d" font-family="var(--serif)">
+<title id="an-t">The war years in numbers</title><desc id="an-d">Winter visitors, season 1945–46: 40,000; Sarasota County, census 1940: 16,106; Venice Army Air Field, top strength: 6,000; Sarasota Army Air Base, peak: 3,000; County men and women in service: 2,285; Inducted by the draft: 1,726. Of those inducted, 1,293 white and 433 Black.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">The war years in numbers</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">As Grismer gives them in 1946. Each label links to its passage.</text>
+<a href="#/text/airfield/war/4"><text x="16" y="87" font-size="13" fill="var(--ink)" text-decoration="underline">Winter visitors, season 1945–46</text></a>
+<rect x="300" y="70" width="560.0" height="24" fill="var(--colony)"/><text x="854" y="87" font-size="12.5" text-anchor="end" fill="var(--panel)">40,000</text>
+<a href="#/text/airfield/war/1"><text x="16" y="133" font-size="13" fill="var(--ink)" text-decoration="underline">Sarasota County, census 1940</text></a>
+<rect x="300" y="116" width="225.5" height="24" fill="var(--town)"/><text x="531" y="133" font-size="12.5" text-anchor="start" fill="var(--ink)">16,106</text>
+<a href="#/text/airfield/field/4"><text x="16" y="179" font-size="13" fill="var(--ink)" text-decoration="underline">Venice Army Air Field, top strength</text></a>
+<rect x="300" y="162" width="84.0" height="24" fill="var(--work)"/><text x="390" y="179" font-size="12.5" text-anchor="start" fill="var(--ink)">6,000</text>
+<a href="#/text/airfield/field/2"><text x="16" y="225" font-size="13" fill="var(--ink)" text-decoration="underline">Sarasota Army Air Base, peak</text></a>
+<rect x="300" y="208" width="42.0" height="24" fill="var(--work)"/><text x="348" y="225" font-size="12.5" text-anchor="start" fill="var(--ink)">3,000</text>
+<a href="#/text/airfield/war/1"><text x="16" y="271" font-size="13" fill="var(--ink)" text-decoration="underline">County men and women in service</text></a>
+<rect x="300" y="254" width="32.0" height="24" fill="var(--law)"/><text x="338" y="271" font-size="12.5" text-anchor="start" fill="var(--ink)">2,285</text>
+<a href="#/text/airfield/war/1"><text x="16" y="317" font-size="13" fill="var(--ink)" text-decoration="underline">Inducted by the draft</text></a>
+<rect x="300" y="300" width="18.1" height="24" fill="var(--law)"/><rect x="318.1" y="300" width="6.1" height="24" fill="var(--colour)"/><text x="330" y="317" font-size="12.5" fill="var(--ink)">1,726 — 1,293 white, 433 Black</text>
+<text x="16" y="358" font-size="12" fill="var(--ink2)">The 433 are the only place in Grismer's account of the war where Black Sarasotans are counted.</text>
+</svg>

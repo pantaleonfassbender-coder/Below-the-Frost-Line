@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "Below the Frost Line: Sarasota, 1884–1946. A Documentary Apparatus"
+message: "If you use this apparatus, please cite it as below, and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/Below-the-Frost-Line"
+url: "https://below-the-frost-line.netlify.app/"
+abstract: >-
+  A documentary apparatus for the founding and growth of Sarasota, Florida,
+  from the Edinburgh prospectus of 1884 that offered land on Sarasota Bay
+  "below the frost line" to the town's own history of 1946. Six modules with
+  108 passages, each read against the page image of a public-domain printing:
+  the prospectus, decisions of Florida's Supreme Court on the vigilance
+  murders of 1884, newspapers from Pensacola, Atlanta, Chicago, Bradentown and
+  Sarasota, promotional booklets, the census, the Weather Bureau, a federal
+  hearing, a Civilian Conservation Corps camp paper, the NAACP's list of
+  lynchings, and Karl H. Grismer's Story of Sarasota (1946, not renewed). It
+  asks who was promised what, who came and who left, and who belonged to the
+  town and who was kept at its edge. With 51 public-domain plates, 6 graphics,
+  14 comparisons, a timeline of 53 stations, and a list of what is not
+  carried and why. Companion game: A City of Glorified Opportunity (free).
+keywords:
+  - Sarasota
+  - Florida history
+  - Florida land boom
+  - Ormiston colony
+  - Florida Mortgage and Investment Company
+  - Sara Sota Vigilance Committee
+  - Bertha Palmer
+  - John Ringling
+  - Newtown
+  - Myakka River State Park
+  - Civilian Conservation Corps
+  - Works Progress Administration
+  - promotion and tourism
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-11

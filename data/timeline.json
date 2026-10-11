@@ -1,5 +1,5 @@
 {
- "lede": "Stations read against the page images of their sources only; each names its source and, where printed, links to its passage.",
+ "lede": "Stations read against the page images of their sources only; each names its source and links to its passage.",
  "stations": [
   {
    "d": "August 1884",
@@ -457,6 +457,15 @@
    "quelle": "Grismer (1946), p. 245."
   },
   {
+   "d": "20 November 1940",
+   "side": "work",
+   "titel": "Relief workers on the airport",
+   "text": "225 Manatee County and 74 Sarasota County WPA workers are building the joint airport that becomes an army air base in 1942.",
+   "cite": "#/text/airfield/field/1",
+   "citeLabel": "The airfield and the book [field 1]",
+   "quelle": "Grismer (1946), p. 249."
+  },
+  {
    "d": "27 December 1940",
    "side": "town",
    "titel": "Lido Beach Casino",
@@ -467,11 +476,43 @@
    "quelle": "Grismer (1946), p. 248."
   },
   {
+   "d": "30 March 1944",
+   "side": "work",
+   "titel": "Crash boats",
+   "text": "The Sarasota Army Air Base announces the promotion of a sergeant of Cedar Key, master of a 35-foot crash boat in an emergency rescue boat squadron.",
+   "cite": "#/text/airfield/field/3",
+   "citeLabel": "The airfield and the book [field 3]",
+   "plate": "lcj1944_tooke",
+   "quelle": "Levy County Journal, 30 March 1944, p. 1."
+  },
+  {
+   "d": "5 November 1945",
+   "side": "town",
+   "titel": "A city manager",
+   "text": "Voters approve a new charter with a city manager, 1,499 to 405, “to prevent a repetition of the growing-pain headaches of the Roaring Twenties”.",
+   "cite": "#/text/airfield/war/3",
+   "citeLabel": "The airfield and the book [war 3]",
+   "quelle": "Grismer (1946), p. 251."
+  },
+  {
    "d": "2 January 1946",
    "side": "town",
    "titel": "The air base closes",
    "text": "The Army air base, a bomber base from the spring of 1942 and then a fighter base with more than 3,000 men at its peak, is inactivated; the following month the government turns it back to the Airport Authority.",
-   "quelle": "Grismer, The Story of Sarasota (1946), p. 250."
+   "quelle": "Grismer, The Story of Sarasota (1946), p. 250.",
+   "cite": "#/text/airfield/field/2",
+   "citeLabel": "The airfield and the book [field 2]",
+   "plate": "usgs1944_sarasota"
+  },
+  {
+   "d": "1946",
+   "side": "town",
+   "titel": "The Story of Sarasota",
+   "text": "Karl H. Grismer's history appears, sponsored by the Chamber of Commerce and the service clubs: “Just the story of the Land of Sarasota—and nothing more.”",
+   "cite": "#/text/airfield/book/2",
+   "citeLabel": "The airfield and the book [book 2]",
+   "plate": "grismer1946_prologue",
+   "quelle": "Grismer, The Story of Sarasota (1946), front matter."
   }
  ]
 }

@@ -1,0 +1,36 @@
+{
+  "upload_type": "dataset",
+  "title": "Below the Frost Line: Sarasota, 1884–1946. A Documentary Apparatus",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for the founding and growth of Sarasota, Florida, from the Edinburgh prospectus of October 1884 that offered 47,000 acres on Sarasota Bay &lsquo;below the frost line&rsquo; to the town's own history of 1946. Sarasota was promised again and again &mdash; to Scottish colonists, to winter residents, to the buyers of lots in the boom of the 1920s &mdash; and each promise met the ground, the weather and the market. The apparatus asks who was promised what, who came and who left, and who belonged to the town and who was kept at its edge.</p><p>Stage 1: six modules with 108 passages, each read against the page image of a public-domain printing. (1) The prospectus and the colony, 1884&ndash;1888: the prospectus in The Economist; the Sara Sota Vigilance Committee and the killings of Harrison T. Riley and Charles E. Abbe in the decisions of Florida's Supreme Court; the Scottish colony, the promoter's letter, the snow of January 1886. (2) The village, 1886&ndash;1903: the company's town, the De Soto Hotel, the railroad of 1892, a teacher for a Black school (1894), the freezes of 1894&ndash;95, incorporation in 1902. (3) Rails and patrons, 1903&ndash;1920: Bertha Palmer's purchases, the Ringlings, the city charter with a mill for advertising, the lynchings at Parrish (1903) and Bradentown (1912), Newtown. (4) The county and the boom, 1921&ndash;1926: Sarasota County, a Black prisoner killed at Salt Springs, the hurricane of 1921, the booklets of the boom, the causeway, the Klan, Newtown's argument over joining the city. (5) After the boom, 1926&ndash;1941: the bust, the banks and the debts, the circus winter quarters and the Ringling museum, Palmer Farms' celery, the Tin Can Tourists, the CCC at Myakka River State Park, the WPA's auditorium and beach casino. (6) The airfield and the book, 1937&ndash;1946: the Army air base, the war years, and Karl H. Grismer's Story of Sarasota read as a source of its time.</p><p>Sources: The Economist (1884); Florida Reports (1886, 1888); The Pensacolian, The Atlanta Constitution, the Chicago Daily Tribune, the Manatee River Journal, the Sarasota Herald (1925&ndash;26) and other newspapers before 1931; W. R. Lawson in Time (London, 1887); Florida gazetteers; promotional booklets of about 1922 and 1924; the census, the Monthly Weather Review, a House hearing of 1937, the National Youth Administration's directory of 1936, the USGS Sarasota quadrangle of 1944; the CCC camp paper The Myakka Rattler (1935); the NAACP's Thirty Years of Lynching (1919); and Karl H. Grismer, The Story of Sarasota (1946), whose copyright was not renewed. With 51 public-domain plates, 6 graphics, 14 comparisons, a timeline of 53 stations linked into the texts, and a list of 24 items examined and not included, with the reasons.</p><p>Companion game: <em>A City of Glorified Opportunity</em> (free).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions CC0 1.0; plates public domain &mdash; see LICENSES.md. Live site: https://below-the-frost-line.netlify.app/</p>",
+  "license": "MIT",
+  "language": "eng",
+  "keywords": [
+    "Sarasota",
+    "Florida history",
+    "Florida land boom",
+    "Ormiston colony",
+    "Florida Mortgage and Investment Company",
+    "Sara Sota Vigilance Committee",
+    "Bertha Palmer",
+    "John Ringling",
+    "Newtown",
+    "Myakka River State Park",
+    "Civilian Conservation Corps",
+    "Works Progress Administration",
+    "promotion and tourism",
+    "digital humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://below-the-frost-line.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

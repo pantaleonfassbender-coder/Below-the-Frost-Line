@@ -1,0 +1,114 @@
+{
+ "id": "airfield",
+ "titel": "The airfield and the book",
+ "jahr": "1938–1946",
+ "autor": "The town historian of 1946, a county paper, and the Army's map",
+ "quelle": "Karl H. Grismer, The Story of Sarasota (Sarasota: M. E. Russell, 1946; copyright not renewed): Internet Archive. Levy County Journal, 30 March 1944: Florida Digital Newspaper Library, University of Florida. Sarasota quadrangle, 1:24,000, mapped by the Army Map Service 1944: U.S. Geological Survey. All in the public domain.",
+ "hinweis": "Each passage is transcribed from the page image; spelling and punctuation are those of the print. “…” marks an omission. This module ends where the apparatus's main source ends: with the book of 1946, which the town's leading men read in manuscript and its Chamber of Commerce helped to publish. Its last section reads that book itself as a source of its time.",
+ "sections": [
+  {
+   "id": "field",
+   "titel": "The airfield (1937–1946)",
+   "blurb": "An airline came in 1937 and left because the field turned to mud. The WPA began a joint airport with Manatee County in 1938; in the war it became an army air base, first for bombers, then for fighters, with more than 3,000 men. A larger field was built at Venice.",
+   "plates": [
+    "usgs1944_sarasota",
+    "lcj1944_tooke"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 249",
+     "titel": "An airport the city could not pay for",
+     "orig": "Repeated efforts were made during the years which followed to interest an airline in coming to Sarasota. But all efforts failed until the summer of 1937 when the National Airlines was induced by the Chamber of Commerce to make Sarasota one of its stops. … The airline was forced to cancel many stops here because of wet grounds and late in the year officials of the company threatened to discontinue service unless concrete runways were provided. This could not be done because of the city's lack of money and soon afterward the line's planes stopped landing here. … Work on the airfield was started late in 1938 as a WPA project. In 1939, the Civil Aeronautics Authority allotted $50,000 for the project and during 1940, with war imminent, more grants followed in rapid succession. By November 20, 1940, 225 Manatee County WPA workers were engaged on the airport work and 74 Sarasota County workers, in addition to 17 non-relief supervisors and foremen.",
+     "note": "The airport was a joint project of Sarasota and Manatee counties, which had separated in 1921 (module 4). Grismer's opening sentence for the section: the city got its airfield “because of the Great Depression and World War II” (p. 248)."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 250",
+     "titel": "Sarasota Army Air Base",
+     "orig": "The airport authority later leased a large tract of land from Powell Crosley, Jr., and bought other adjoining tracts, so that the airfield could be made into an army air base. How much was spent by the army on the base during the war is anyone's guess but the total undoubtedly ran into millions, due to the number of hangers and barracks constructed in addition to signal towers, lighting facilities, and other improvements. The airfield was first used as a bomber base in the spring of 1942. During the following year it was made into a fighter base and at the peak of the field's operations, more than 3,000 men were stationed there. The base was inactivated January 2, 1946. In the following month, the government turned back the base to Airport Authority …",
+     "note": "The Army Air Forces' own records of the base have not been read (see “What is missing”). “Hangers” as printed."
+    },
+    {
+     "n": 3,
+     "pg": "Levy County Journal (Bronson), 30 March 1944, p. 1",
+     "titel": "A crash boat on the bay",
+     "orig": "SGT. WM. TOOKE ASSIGNED AS MASTER IN RESCUE BOAT SQUADRON AT AIR BASE. The Commanding Officer of the Sarasota Army Air Base, Sarasota, Florida, today announced the promotion of Sgt. William Tooke, of Cedar Key, Florida, to the rank of Staff Sergeant. Tooke is a member of the Second AAF Emergency Rescue Boat Sq. where he is assigned as master of 35' crash boat. His brother, George F. Tooke and sister Ellen Tooke are also residents of Cedar Key.",
+     "note": "A press release of the base, printed in a county paper a hundred miles north: the air base also kept boats to pick pilots out of the Gulf. Spelling (“Commandinfg”, “Wis brother”) corrected only where the print is plainly broken."
+    },
+    {
+     "n": 4,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 250",
+     "titel": "Venice",
+     "orig": "An even larger air base was established during the war at Venice. The project there was originally planned as an anti-aircraft center for 30,000 men but it was soon changed into a service group training center, becoming activated July 7, 1942. On February 15, 1943, it was made into an army air field and pilot training became its chief business. … The top strength of the base was 6,000 men. The field was inactivated Friday, October 5, 1945.",
+     "note": "Venice lay at the southern end of the lands Mrs. Palmer bought in 1910 (module 3)."
+    }
+   ],
+   "zk": "The airfield and the book, The airfield"
+  },
+  {
+   "id": "war",
+   "titel": "The war years (1940–1946)",
+   "blurb": "Of the county's men drafted, 1,293 were white and 433 Black. Servicemen filled the town; rents were frozen; after the war more winter visitors came than ever, and the city voted itself a manager so that the twenties should not return.",
+   "plates": [],
+   "viz": "airfield-numbers",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), pp. 250–251",
+     "titel": "1,293 white and 433 colored",
+     "orig": "A total of 2389 Sarasota County men, 21 to 35 inclusive, registered for the first draft on Wednesday, October 16, 1940. Before the war ended, 6296 had signed up. This total included 2025 in the older age bracket which was never called. The number from whom the selectees were drawn totalled 4271. Of these, 1726 were inducted—1293 white and 433 colored. It is estimated that at least 400 others volunteered for service before registering. In other words, Sarasota County, with a population in 1940 of only 16,106, had more than 2,000 men in service! The army states that the exact number was 2,285, including women.",
+     "note": "The only place in Grismer's history of the war years where Black Sarasotans are counted: a quarter of those drafted. Where they served and how they came home is not in his book."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 251",
+     "titel": "No room again",
+     "orig": "Throughout the entire war, and for months afterward, Sarasota was crowded with servicemen, due to the proximity of Sarasota Army Air Base and the Venice Air Base. The housing shortage in Sarasota became so acute that OPA put a ceiling on rents which was not lifted until January, 1946. Termination of the war, and the departure of the servicemen, did not mean the end of Sarasota's housing shortage. During the winter of 1945-46, more winter visitors came to Sarasota than had ever come before, and every available house and room in the city was filled.",
+     "note": "Twenty years after the Herald's “People are actually leaving Sarasota because they can find no place to live” (module 4, “Selling the boom”, [4])."
+    },
+    {
+     "n": 3,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 251",
+     "titel": "So that the twenties should not come back",
+     "orig": "As early as the late summer of 1945 it became obvious that Sarasota was entering a period during which it would grow as it had never grown before. And Sarasotans decided that it would be necessary to overhaul and streamline the city's form of government to prevent a repetition of the growing-pain headaches of the Roaring Twenties. To accomplish this, a new city charter, providing for a city manager, was drafted. It was approved 1499 to 405 at a special election held on November 5, 1945. … His success or failure can be reported by the next person who attempts to record the history of Sarasota.",
+     "note": "The town that had borrowed for streets in empty subdivisions (module 5) votes for a professional manager. Grismer ends his narrative here and hands the next chapter to “the next person who attempts to record the history of Sarasota”."
+    },
+    {
+     "n": 4,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 252",
+     "titel": "Forty thousand guests",
+     "orig": "The Land of Sarasota is known throughout the nation as a winter playground for thousands of northerners who migrate south with the birds to escape the frigid blasts of their home states. During the season of 1945-46, the number of winter visitors totalled at least 40,000. Providing for the needs of these guests constitutes the major industry of the City of Sarasota, as well as all other communities of the county.",
+     "note": "The opening of Grismer's chapter “—And There Are Those Who Work”. Sixty years after the prospectus that promised vegetables for the northern markets (module 1), the town's business is the northerners themselves."
+    }
+   ],
+   "zk": "The airfield and the book, The war years"
+  },
+  {
+   "id": "book",
+   "titel": "The book (1946)",
+   "blurb": "In 1946 Karl H. Grismer published The Story of Sarasota, read in manuscript by the town's editors and leading men and sponsored by its Chamber of Commerce and clubs. Most of this apparatus rests on it. Its prologue shows the view it was written from.",
+   "plates": [
+    "grismer1946_appreciation",
+    "grismer1946_prologue"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), “Appreciation”, front matter",
+     "titel": "Who made the book",
+     "orig": "The author particularly wishes to express appreciation to Mrs. C. V. S. Wilson, former editor and publisher of the Sarasota Times, and to the late George D. Lindsay, editor of the Sarasota Herald-Tribune, for permitting him to use the files of their newspapers and for reading copy on his manuscript, checking for accuracy. Thanks also are due to Mr. Edwards, Mr. Thacker and Mr. Bickel who read the entire text and to many others who read separate sections. … The author also extends thanks to the Sarasota County Chamber of Commerce, the Kiwanis Club, the Rotary Club, the Lions Club, Sarasota Bay Post No. 30 American Legion, and many public spirited individuals who sponsored publication of the history.",
+     "note": "The history was read in manuscript by the editors of the town's two papers and by three of its leading men, among them A. B. Edwards, its first mayor, and published with the support of the Chamber of Commerce and the service clubs. The same page thanks the judge who checked the chapter on the vigilance committee and the son who lent Alex Browning's memoirs (module 1). It is a history the town commissioned of itself; this apparatus quotes it for what it preserves and reads it for what it leaves out."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), “Prologue”, front matter",
+     "titel": "“And nothing more”",
+     "orig": "Dreams of gold, and silver, and sparkling gems brought conquistadors of Spain to the shores of Florida more than four hundred years ago. They were bitterly resisted by the people we call the Indians—men who loved Florida because of its golden sunshine, its silvery moon in velvet skies, and the sparkling sand on snow-white beaches. For three hundred years the Indians continued battling fair-skinned foes. But the once mighty tribes became weakened by endless wars, white man's diseases, and intermarriage with lesser races. … Today, Florida is loved as ardently as the Indians ever loved it—by people who came here from every state of the Union to make it their home. Not to gain riches but to enjoy the better things of life. … It is the story of this land we are going to tell; the story of its ups and downs, its trials and tribulations, its days of happiness and of sorrow. Just the story of the Land of Sarasota—and nothing more.",
+     "note": "The prologue speaks of “lesser races” and gives the land to those who came “not to gain riches” — a promise in its own right, from a book that recounts sixty years of land sales. “Conquistators” in the print; the apparatus keeps the racist phrase so that the reader can see how the town's own history began."
+    }
+   ],
+   "zk": "The airfield and the book, The book"
+  }
+ ]
+}

@@ -44,17 +44,18 @@
    "quelle": "Grismer (1946); census 1930; ship-canal hearings 1937; Myakka Rattler 1935; NYA directory 1936.",
    "datei": "bust",
    "zk": "Bust · Circus and museum · Celery and trailers · Relief"
-  }
- ],
- "planned": [
+  },
   {
    "id": "airfield",
    "side": "town",
    "kurz": "6 · The airfield and the book",
-   "warum": "From 1942 an Army air base stood east of the town, with more than 3,000 men at its peak; it closed on 2 January 1946. In the same year Karl H. Grismer published The Story of Sarasota: the history a town tells about itself, and what it leaves out.",
-   "quelle": "Florida newspapers 1942–45; USGS Sarasota quadrangle 1944; Grismer (1946)."
+   "warum": "A WPA airport became an army air base with more than 3,000 men; Venice had a larger one. The county's draft counted 1,293 white and 433 Black men; after the war came 40,000 winter visitors and a city manager. In 1946 the town's history appeared, read by its editors and sponsored by its Chamber of Commerce — the book on which most of this apparatus rests.",
+   "quelle": "Grismer (1946); Levy County Journal 1944; USGS Sarasota quadrangle 1944.",
+   "datei": "airfield",
+   "zk": "Airfield · War years · The book"
   }
  ],
+ "planned": [],
  "missing": [
   {
    "id": "times",
@@ -209,6 +210,20 @@
    "kurz": "Who served in the CCC at Myakka",
    "warum": "Company 1421's paper names its enrollees but nowhere states their colour. Whether Black young men served at Myakka, in this company or another, has not been found in the sources read.",
    "quelle": "Florida CCC records; Myakka Rattler, full run."
+  },
+  {
+   "id": "aafrecords",
+   "side": "work",
+   "kurz": "The Army's records of the air base",
+   "warum": "The histories of Sarasota Army Air Base and Venice Army Air Field kept by the Army Air Forces (Air Force Historical Research Agency, on microfilm) have not been read; the module relies on Grismer and a press notice.",
+   "quelle": "Air Force Historical Research Agency, unit and base histories."
+  },
+  {
+   "id": "blackveterans",
+   "side": "colour",
+   "kurz": "Sarasota's Black servicemen",
+   "warum": "Grismer counts 433 Black men drafted from the county and says nothing more of them. Their service and their return to a segregated town are not documented in the public-domain sources read.",
+   "quelle": "To be found (Selective Service records; Black press)."
   }
  ]
 }
