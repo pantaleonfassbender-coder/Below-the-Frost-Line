@@ -19,6 +19,15 @@
    "zk": "Building · Lean years · Freeze · Town"
   },
   {
+   "id": "rails",
+   "side": "town",
+   "kurz": "3 · Rails and patrons",
+   "warum": "After the railroad, the patrons: Bertha Palmer of Chicago bought up to 100,000 acres from 1910, John and Charles Ringling bought on the bay from 1911 and promised to advertise Sarasota on their circus posters. The town became a city in 1913 with a mill of tax for advertising. Two Black men were lynched in Manatee County; Newtown was begun about 1914.",
+   "quelle": "Chicago Sunday Tribune 1910; Manatee River Journal 1910–1919; NAACP 1919; Grismer (1946).",
+   "datei": "rails",
+   "zk": "Palmer · Ringling · City · Colour line"
+  },
+  {
    "id": "boom",
    "side": "promise",
    "kurz": "4 · The county and the boom",
@@ -29,13 +38,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "rails",
-   "side": "town",
-   "kurz": "3 · Rails and patrons",
-   "warum": "The railroad reached Sarasota in 1903. Winter residents with great fortunes followed: Bertha Palmer of Chicago from 1910, John Ringling of the circus from 1911. From about 1914 Black families built homes in Newtown, outside the town.",
-   "quelle": "Manatee River Journal 1903–1921; Bradentown City Directory 1916 (with Sarasota); census 1910 and 1920; Grismer (1946)."
-  },
   {
    "id": "bust",
    "side": "work",
@@ -170,6 +172,27 @@
    "kurz": "The village in the gazetteers of the 1890s",
    "warum": "The Florida railroad gazetteer of 1895 lists Sarasota with a population of 100, the De Soto Hotel and J. H. Gillespie as justice of the peace (OCR only); it has not yet been read against the page image.",
    "quelle": "Florida Railroad Gazetteer 1895."
+  },
+  {
+   "id": "lynch1903",
+   "side": "law",
+   "kurz": "Henry Thomas (1903) and William English (1912)",
+   "warum": "Both lynchings are printed here only from the NAACP's list of 1919. The reports of the county paper and of the Tampa press, which would tell what happened and who took part, have not yet been read against the page image.",
+   "quelle": "Manatee River Journal, March 1903 and July 1912."
+  },
+  {
+   "id": "charter1913",
+   "side": "town",
+   "kurz": "The city charter of 1913",
+   "warum": "The act of the Florida legislature granting the charter has not been read at its source; its clause on advertising is quoted from Grismer.",
+   "quelle": "Laws of Florida 1913."
+  },
+  {
+   "id": "directory1916",
+   "side": "colour",
+   "kurz": "The directory of 1916",
+   "warum": "The Bradentown city directory of 1916 includes Sarasota and marks each resident as white or coloured; counted, it would show where Black and white residents lived and worked. It has not yet been read through.",
+   "quelle": "Bradentown City Directory 1916 (UFDC AA00053890)."
   }
  ]
 }

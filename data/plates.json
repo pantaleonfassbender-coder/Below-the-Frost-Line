@@ -1,6 +1,6 @@
 {
  "lede": "Public-domain pages, maps and photographs, each with its source.",
- "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), the Monthly Weather Review, a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Promotional booklets of about 1922 and 1924: State Library of Florida, via Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian, the Manatee River Journal and the Sarasota Herald: Florida Digital Newspaper Library, University of Florida. All in the public domain.",
+ "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Chicago Sunday Tribune of 1910, the NAACP's Thirty Years of Lynching (1919), the Monthly Weather Review, a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Promotional booklets of about 1922 and 1924: State Library of Florida, via Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian, the Manatee River Journal and the Sarasota Herald: Florida Digital Newspaper Library, University of Florida. All in the public domain.",
  "plates": [
   {
    "id": "econ1884_head",
@@ -197,6 +197,76 @@
    "titel": "Incorporation legalized, 1903",
    "caption": "The county's representative “has secured the passage of his bill legalizing the incorporation of the town of Sarasota.”",
    "source": "Manatee River Journal, 24 April 1903, p. 4, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "trib1910_lord",
+   "side": "promise",
+   "titel": "Lord's advertisement, 1910",
+   "caption": "“FLORIDA … in the famous Sarasota Bay district of Manatee County, on the gulf.” J. H. Lord's advertisement in the farm-lands columns of the Chicago Sunday Tribune, the issue in which, Grismer says, Mrs. Palmer found Sarasota.",
+   "source": "Chicago Sunday Tribune, 23 January 1910, part X, p. 13, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "grismer1946_palmer",
+   "side": "colony",
+   "titel": "Mrs. Potter Palmer",
+   "caption": "Bertha Honoré Palmer, “—Changed the course of Sarasota's history”, in Grismer's book.",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), p. 158. Internet Archive; public domain."
+  },
+  {
+   "id": "mrj1910_colony",
+   "side": "promise",
+   "titel": "“Planning for a Florida Colony”, 1910",
+   "caption": "Between 75,000 and 100,000 acres from Sarasota to Venice, a railroad extension, bungalows for the Palmers, a “society circle”, and nothing sold to colonists under $100 an acre.",
+   "source": "Manatee River Journal, 30 June 1910, p. 1, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "mrj1916_myakka",
+   "side": "work",
+   "titel": "Mrs. Palmer and the engineers, 1916",
+   "caption": "“Government Aid in Dredging the Miakka Would Reclaim Thousands of Acres of Fertile Lands”: Mrs. Palmer before the Board of Engineers in Washington.",
+   "source": "Manatee River Journal, 20 April 1916, p. 8, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "mrj1918_death",
+   "side": "colony",
+   "titel": "Death at Osprey, 1918",
+   "caption": "“Mrs. Potter Palmer Died Sunday at Her Winter Home at Osprey.”",
+   "source": "Manatee River Journal, 9 May 1918, p. 1, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "mrj1911_ringling",
+   "side": "colony",
+   "titel": "“Circus Man Buys Home”, 1911",
+   "caption": "John Ringling, fishing at Sarasota with his wife, buys the winter home of C. N. Thompson. Beside it, the city of Bradentown sells $45,000 in bonds.",
+   "source": "Manatee River Journal, 31 August 1911, p. 1, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "mrj1919_ringadv",
+   "side": "promise",
+   "titel": "On the circus posters, 1919",
+   "caption": "“Ringling to Advertise Sarasota and West Coast”: stickers on the circus posters “telling of the beauties of this section”.",
+   "source": "Manatee River Journal, 27 November 1919, p. 3, detail. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "grismer1946_main1910",
+   "side": "town",
+   "titel": "Sarasota in 1910",
+   "caption": "“Sarasota as it was in 1910”: above, Lower Main from Palm Avenue; below, looking west from the Five Points, with water from the watering trough running down the unpaved street and the water oaks that, Grismer notes, Gillespie had planted in 1886.",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), p. 168. Internet Archive; public domain."
+  },
+  {
+   "id": "naacp1919_p55",
+   "side": "law",
+   "titel": "Florida, 1900–1909",
+   "caption": "The NAACP's chronological list of persons lynched in Florida, 1900–1909, among them “THOMAS, HENRY … Parish, Manatee Co.”, 9 March 1903.",
+   "source": "NAACP, Thirty Years of Lynching in the United States, 1889–1918 (1919), p. 55. Internet Archive; public domain."
+  },
+  {
+   "id": "naacp1919_p56",
+   "side": "law",
+   "titel": "Florida, 1910–1917",
+   "caption": "The list continued, among them “ENGLISH, WM. … Bradentown, Manatee Co. … Insulting white woman”, 4 July 1912.",
+   "source": "NAACP, Thirty Years of Lynching in the United States, 1889–1918 (1919), p. 56. Internet Archive; public domain."
   }
  ]
 }

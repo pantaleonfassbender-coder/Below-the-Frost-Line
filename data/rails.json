@@ -1,0 +1,159 @@
+{
+ "id": "rails",
+ "titel": "Rails and patrons",
+ "jahr": "1903–1920",
+ "autor": "A Chicago land agent, the county paper, the NAACP's list of the lynched, and the town historian of 1946",
+ "quelle": "Chicago Sunday Tribune, 23 January 1910; NAACP, Thirty Years of Lynching in the United States, 1889–1918 (New York, 1919); Karl H. Grismer, The Story of Sarasota (1946; copyright not renewed): Internet Archive. Manatee River Journal, 1910–1919: Florida Digital Newspaper Library, University of Florida. All in the public domain.",
+ "hinweis": "Each passage is transcribed from the page image; spelling and punctuation are those of the print. “…” marks an omission. The railroad of 1903 (module 2) made Sarasota reachable for winter residents with fortunes; this module follows the two families who changed the town most, the Palmers and the Ringlings, through what the press reported and what Grismer gathered. Grismer's scenes of Mrs. Palmer at her window are his invention and are not quoted. The violence of these years in Manatee County reaches the apparatus only through the NAACP's list; the county paper's reports of the two lynchings have not yet been read.",
+ "sections": [
+  {
+   "id": "palmer",
+   "titel": "Mrs. Potter Palmer (1910–1918)",
+   "blurb": "In February 1910 Bertha Honoré Palmer of Chicago came to see Sarasota after her father had called on a land agent. Within months she had bought between 75,000 and 100,000 acres from Sarasota to Venice, built a winter home at Osprey, founded a cattle ranch on the Myakka and a company to sell small farms. She died at Osprey in 1918.",
+   "plates": [
+    "trib1910_lord",
+    "grismer1946_palmer",
+    "mrj1910_colony",
+    "mrj1916_myakka",
+    "mrj1918_death"
+   ],
+   "viz": "rails-acre",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Chicago Sunday Tribune, 23 January 1910, part X, p. 13: advertisement",
+     "titel": "An advertisement in Chicago",
+     "orig": "FLORIDA. GRAPE FRUIT AND ORANGE GROVES. BEAUTIFUL WINTER HOMES. FRUIT AND VEGETABLE LANDS in the famous Sarasota Bay district of Manatee County, on the gulf. I am one of the largest growers and land owners in Manatee County and can furnish you with any kind or size property desired. I also improve lands and raise groves for purchasers. Best location in U. S. Lowest prices. Easy terms. Call or write for free book and full information. J. H. LORD, Owner, 922 Marquette Bldg.",
+     "note": "Grismer tells that Bertha Honoré Palmer, widow of the Chicago merchant and hotel owner Potter Palmer, read an advertisement of J. H. Lord in this issue (pp. 155–156). This is the advertisement of Lord in the farm-lands columns of that Sunday; Grismer's paraphrase of its wording (“richest land in the world”, “like Venus from the foam of the sea”) does not match it, and the scene in which she reads it is his invention."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 157",
+     "titel": "“Refreshingly quaint”",
+     "orig": "On Thursday, February 10, the Palmers arrived in Sarasota in a private car—Mrs. Palmer and her two sons, Honore and Potter Palmer, Jr. Mrs. Palmer also was accompanied by her father, H. H. Honore, and her brother, Adrian C. Honore. Edwards met the party with misgivings. He was afraid that Mrs. Palmer, the world-known celebrity, would be “high hat” and arrogant. But, to his relief, he soon learned she was delightfully friendly and courteous. And instead of being scornful of Sarasota's shabbiness, she called the town “refreshingly quaint.”",
+     "note": "A. B. Edwards, Lord's partner in Sarasota and later the city's first mayor ([1] in “A city”), was Grismer's informant; the words attributed to Mrs. Palmer come through him. The town's hotel was so run down, Grismer writes, that a doctor's sanitarium was refitted to house her party (pp. 156–157)."
+    },
+    {
+     "n": 3,
+     "pg": "Manatee River Journal (Bradentown), 30 June 1910, p. 1",
+     "titel": "“A society circle”",
+     "orig": "Planning for a Florida Colony. Mrs. Potter Palmer has undertaken one of the greatest development propositions ever known in Florida. She has just completed a purchase of between 75,000 and 100,000 acres on the west coast of Florida, in Manatee county, extending approximately twenty-five miles along Sarasota Bay from Sarasota to Venice, Florida, and about twelve miles inland. The Seaboard Air Line has just authorized a twenty-five mile extension from the terminus of Fruitville to Venice, bi-secting the property just purchased by Mrs. Palmer. Mrs. Palmer and her son, Honore Palmer, expect to develop the property and place some of it on sale this fall. Plans have already been drawn for bungalows for Mrs. Palmer and Honore Palmur, and it is expected that a society circle will be developed along the beautiful coast of Sarasota Bay. The investment totals approximately $300,000, and none of the acreage is to be sold to colonist at less than $100.00 per acre.",
+     "note": "Twenty-six years after the Edinburgh company's 47,000 acres at $3.40 (module 1), a single buyer takes up to twice as much, to resell at no less than $100 an acre (see the graphic). “Palmur” as printed."
+    },
+    {
+     "n": 4,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 159",
+     "titel": "The Oaks and Meadow Sweet Pastures",
+     "orig": "After building “The Oaks,” Mrs. Palmer bought more and more property. Finally, she acquired more than 80,000 acres in the Sarasota region and also made large purchases in Hillsborough County. Her purchases boosted land values in this region to an undreamed-of peak. To develop the property here, the Sarasota-Venice Co. was organized with Adrian C. Honore as president … An extensive advertising campaign was launched to sell small tracts to settlers. The Bee Ridge area was the first to be developed and sold. Mrs. Palmer then proceeded to establish a model cattle ranch, called Meadow Sweet Pastures, in the Myakka Lake region. To improve the breed of cattle, she purchased prize bulls. She was one of the first persons in the state to advocate cattle dipping to eliminate ticks. At that time, practically all free-range cattle owners fought the tick-eradication measures viciously, insisting dipping would “kill the cows.” Mrs. Palmer went ahead and proved it didn't.",
+     "note": "The open range on which the cattle of the back country grazed is the “right of free grazing” that the promoter of 1886 blamed for the settlers' hostility (module 1, “The colony”, [2]). A cattleman's view of the tick laws is not in the sources read."
+    },
+    {
+     "n": 5,
+     "pg": "Manatee River Journal (Bradentown), 20 April 1916, p. 8",
+     "titel": "Draining the Myakka",
+     "orig": "Representative A. M. Wilson, of Miakka, was in Bradentown today, having returned from Washington last Friday, where he went in the interest of a drainage project through which he hopes that by government aid more than 50,000 acres of valuable land may be reclaimed, in addition to large areas which will be materially benefitted. Mrs. Potter Palmer, of Osprey, accompanied the representative to Washington and appeared before the board of engineers in the intereset of the project.",
+     "note": "Under the headline “Mrs. Potter Palmer Talks to Engineers”. The resolution of 1913 asked the federal government to drain the Myakka River “for the double purpose of reclamation and transportation”. The same river's lake country became Myakka River State Park in the 1930s (module 5). “Intereset” as printed."
+    },
+    {
+     "n": 6,
+     "pg": "Manatee River Journal (Bradentown), 9 May 1918, p. 1",
+     "titel": "Died at Osprey, May 1918",
+     "orig": "Mrs. Potter Palmer died at her winter home, “The Oaks,” at Osprey, at 9:15 o'clock last Sunday night. Mrs. Palmer had been in failing health for several months and came to Florida somewhat earlier this winter than had been her custom, in the hope that climatic conditions would prove beneficial. In this she was disappointed.",
+     "note": "Eight years after her first visit. Her sons and her brother carried on the Sarasota-Venice Co.; the county's tax rolls of 1921 still list large holdings of “the late Mrs. Potter Palmer” (Manatee River Journal, 18 August 1921, OCR)."
+    }
+   ],
+   "zk": "Rails and patrons, Mrs. Potter Palmer"
+  },
+  {
+   "id": "ringling",
+   "titel": "The circus men (1911–1919)",
+   "blurb": "In 1911 John Ringling came to fish and bought a house on the bay; his brother Charles followed. Within a few years the Ringlings held land across the town, and in 1919 they promised to advertise Sarasota on their circus posters.",
+   "plates": [
+    "mrj1911_ringling",
+    "mrj1919_ringadv"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Manatee River Journal (Bradentown), 31 August 1911, p. 1, after the Tampa Times of 28 August",
+     "titel": "“Circus Man Buys Home”",
+     "orig": "CIRCUS MAN BUYS HOME. John Ringling, the noted circus man, who has been spending some days in this section, as was noted in the Times last week, left last night in his private car for the north. He was accompanied by Mrs. Ringling. For several days they have been in the Sarasota section enjoying the fishing under the guidance of Dr. Jack Halton, the well known hotel man. … Mr. Ringling is very much impressed with this section of the State, and will return in a few weeks. He is considering the matter of bringing his immense shows to Tampa this winter. While at Sarasota Mr. Ringling purchased the winter home of C. N. Thompson, which is near that town, and is said to be one of the finest places in that section of the State.",
+     "note": "The Tampa paper reports the purchase in August 1911. Grismer, from the county's deed records, has the Thompson home bought first by Ralph C. Caples in November 1911 and resold to Ringling in January 1912 ([2]). The circus came to Sarasota for the winter only in 1927 (module 5)."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 170",
+     "titel": "Boosters at work",
+     "orig": "Another Sarasota booster also was doing his utmost to lure the Ringlings to this section—Ralph C. Caples, then general agent of the New York Central … The Caples-Thompson publicity team proved irresistable. The Ringlings finally were sold on Sarasota's charms. Yellowing records in the Manatee County courthouse show that on November 3, 1911, Caples bought the Thompson home and a large tract of land—and that on January 31, 1912, less than three months later, Caples resold the house and most of the land to John Ringling. That started the Ringling ball a'rolling. John began buying more and more land and soon his brother Charles followed suit. By the spring of 1912, Shell Beach was booming.",
+     "note": "Charles N. Thompson, the seller, was a circus man too (Grismer, p. 169); he later opened Newtown ([3] in “The colour line”). “Irresistable” as printed."
+    },
+    {
+     "n": 3,
+     "pg": "Manatee River Journal (Bradentown), 27 November 1919, p. 3",
+     "titel": "Sarasota on the circus posters",
+     "orig": "RINGLING TO ADVERTISE SARASOTA AND WEST COAST. The Ringling brothers, who have large holdings in Sarasota and vicinity announce that next year they are going to advertise Sarasota and the West Coast of Florida by placing stickers telling of the beauties of this section on the posters put up advertising their mammoth circus. The Ringling Brothers have the welfare of this entire section at heart and we know that any advertising put out by them will be of the very best and will do Manatee county and the entire state a lot of good.",
+     "note": "The circus as an advertising medium for the town: the promise of Sarasota travels with the posters of “the greatest show on earth”."
+    }
+   ],
+   "zk": "Rails and patrons, The circus men"
+  },
+  {
+   "id": "city",
+   "titel": "A city (1913–1914)",
+   "blurb": "In 1913 the town asked for a city charter. It allowed a tax for streets, one for debt, and one mill for advertising the city.",
+   "plates": [
+    "grismer1946_main1910"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 175",
+     "titel": "A city, with a mill for advertising",
+     "orig": "A plea was made to the state legislature for a city charter—and it was granted. Governor Park Trammel signed the enabling statute May 16, 1913, to become effective January 1, 1914. The new charter provided for a mayor and three councilmen, to be elected by wards. It stipulated that for ordinary purposes, the rate of taxation should not exceed ten mills on the dollar and that special taxes “may be levied not exceeding ten mills for a sinking fund, not exceeding five mills exclusively for street work, and not exceeding one mill for city advertising.” … The honor of being the first mayor of the newly-incorporated City of Sarasota was given to Arthur B. Edwards at the first election authorized by the new charter. Citizens cast their ballots December 6, 1913. Edwards received 108 votes and his opponent, William Worth, 63.",
+     "note": "The charter itself (Laws of Florida 1913) has not yet been read; the clause in quotation marks is as Grismer gives it. A city that may tax itself to advertise: the promotion that companies and land agents had paid for becomes a public duty. 171 votes were cast."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 174",
+     "titel": "Fifty dollars a month",
+     "orig": "The only disturbing note in the whole program was a statement made by Prof. Yarbrough that the school had suffered badly during the term because of the heavy turnover of teachers, due to the fact that they were paid only $50 and $55 a month—and it cost them that much to live.",
+     "note": "At the first graduation of Sarasota's high school, in 1914, as Grismer reports it from the Sarasota Times. The school was for white pupils; for the Black school see module 2 (“The lean years”, [5]) and module 4."
+    }
+   ],
+   "zk": "Rails and patrons, A city"
+  },
+  {
+   "id": "colour",
+   "titel": "The colour line (1903–1914)",
+   "blurb": "Two Black men were lynched in Manatee County in these years, at Parrish in 1903 and at Bradentown in 1912. About 1914 Black families began building homes in Newtown, north of the city, moving from Black Bottom near 12th and Lemon.",
+   "plates": [
+    "naacp1919_p55",
+    "naacp1919_p56"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "NAACP, Thirty Years of Lynching in the United States, 1889–1918 (1919), p. 55",
+     "titel": "Parrish, March 1903",
+     "orig": "1903. Mar. 9. THOMAS, HENRY. Parish, Manatee Co. Rape.",
+     "note": "One line in the National Association for the Advancement of Colored People's list of persons lynched; the charge is the one given by those who killed him, not a finding. Parrish lies in the north of what was then Manatee County, which included Sarasota until 1921. The month is that of the Seaboard's arrival at Sarasota (module 2)."
+    },
+    {
+     "n": 2,
+     "pg": "NAACP, Thirty Years of Lynching in the United States, 1889–1918 (1919), p. 56",
+     "titel": "Bradentown, July 1912",
+     "orig": "1912. July 4. ENGLISH, WM. Bradentown, Manatee Co. Insulting white woman.",
+     "note": "Lynched at the county seat on the Fourth of July, for an alleged “insult”, the year the Ringlings began building at Shell Beach. The list gives no lynching at Sarasota itself; it was compiled from newspapers and is incomplete by its own account."
+    },
+    {
+     "n": 3,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 179",
+     "titel": "Newtown, about 1914",
+     "orig": "Flying inland, the passengers were given the opportunity to observe another type of habitation. Out on 33rd Street they could see tiny homes being erected by negroes in the colored community of Newtown, then being opened by Charles N. Thompson, not to make money but to provide the negroes with better places in which to live. Previously, their principal living quarters had been at Black Bottom, in the vicinity of 12th and Lemon.",
+     "note": "Grismer describes Newtown as the passengers of a flight over the town saw it, in the years about 1914. The motive he gives to Thompson, “not to make money”, is his own. Newtown lay north of the city limits; whether it should belong to the city was argued in 1926 (module 4)."
+    }
+   ],
+   "zk": "Rails and patrons, The colour line"
+  }
+ ]
+}

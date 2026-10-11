@@ -29,6 +29,7 @@ Q = "../quellen/"
 M1 = Q + "m1/"
 M4 = Q + "m4/"
 M2 = Q + "m2/"
+M3 = Q + "m3/"
 
 PLATES = {
     # filled module by module: id -> (kind, source, crop in per mille [, rotation])
@@ -51,6 +52,17 @@ PLATES = {
     "mrj1894_teachers": ("local", M2 + "mrj1894_teachers.png", None),
     "mrj1895_freeze": ("local", M2 + "mrj1895_freeze.png", (320, 0, 760, 760)),
     "mrj1903_legal": ("local", M2 + "mrj1903_legal.png", (0, 300, 450, 1000)),
+    # Modul 3: Rails and patrons
+    "trib1910_lord": ("local", M3 + "trib1910_lord.png", None),
+    "grismer1946_palmer": ("ia", IAP.format("storyofsarasotah00gris", 161), (60, 60, 940, 960)),
+    "mrj1910_colony": ("local", M3 + "mrj1910_colony.png", (0, 0, 370, 1000)),
+    "mrj1916_myakka": ("local", M3 + "mrj1916_myakka.png", (0, 0, 760, 830)),
+    "mrj1918_death": ("local", M3 + "mrj1918_death.png", (230, 0, 1000, 1000)),
+    "mrj1911_ringling": ("local", M3 + "mrj1911_ringling.png", (0, 0, 450, 460)),
+    "mrj1919_ringadv": ("local", M3 + "mrj1919_ringadv.png", (100, 60, 500, 760)),
+    "grismer1946_main1910": ("ia", IAP.format("storyofsarasotah00gris", 171), (40, 40, 970, 990)),
+    "naacp1919_p55": ("local", M3 + "naacp_p55.jpg", None),
+    "naacp1919_p56": ("local", M3 + "naacp_p56.jpg", None),
     # Modul 4: The county and the boom
     "mrj1921_boundary": ("local", M4 + "mrj1921_boundary.png", (0, 430, 560, 860)),
     "mrj1921_bunkley": ("local", M4 + "mrj1921_bunkley.png", None),

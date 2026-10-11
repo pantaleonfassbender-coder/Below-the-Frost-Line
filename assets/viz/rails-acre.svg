@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="ra-t ra-d" font-family="var(--serif)">
+<title id="ra-t">What an acre cost</title><desc id="ra-d">1884: The Edinburgh company buys 47,000 acres, $3.40 an acre; after 1887: The company asks “$10 or more” and finds no buyers, $10.00 an acre; 1910: Mrs. Palmer: none sold to colonists below, $100.00 an acre; 1910: Mrs. Palmer pays for a home and 13 acres at Osprey, $846.15 an acre. Logarithmic scale.</desc>
+<text x="16" y="28" font-size="17" font-weight="bold" fill="var(--ink)">What an acre cost</text>
+<text x="16" y="48" font-size="13" fill="var(--ink2)">Dollars per acre at Sarasota, as the sources give them; each scale step is ten times the last. Each bar links to its passage.</text>
+<line x1="360" y1="64" x2="360" y2="270" stroke="var(--line)"/><text x="360" y="288" font-size="12" text-anchor="middle" fill="var(--ink2)">$1</text>
+<line x1="530" y1="64" x2="530" y2="270" stroke="var(--line)"/><text x="530" y="288" font-size="12" text-anchor="middle" fill="var(--ink2)">$10</text>
+<line x1="700" y1="64" x2="700" y2="270" stroke="var(--line)"/><text x="700" y="288" font-size="12" text-anchor="middle" fill="var(--ink2)">$100</text>
+<line x1="870" y1="64" x2="870" y2="270" stroke="var(--line)"/><text x="870" y="288" font-size="12" text-anchor="middle" fill="var(--ink2)">$1,000</text>
+<a href="#/text/prospectus/prospectus/6"><text x="16" y="91" font-size="12.5" fill="var(--ink)" text-decoration="underline">1884 · The Edinburgh company buys 47,000 acres</text></a><rect x="360" y="76" width="90.4" height="24" fill="var(--promise)"/><text x="456" y="93" font-size="12.5" fill="var(--ink)">$3.40</text>
+<a href="#/text/village/lean/1"><text x="16" y="137" font-size="12.5" fill="var(--ink)" text-decoration="underline">after 1887 · The company asks “$10 or more” and finds no buyers</text></a><rect x="360" y="122" width="170.0" height="24" fill="var(--town)"/><text x="536" y="139" font-size="12.5" fill="var(--ink)">$10.00</text>
+<a href="#/text/rails/palmer/3"><text x="16" y="183" font-size="12.5" fill="var(--ink)" text-decoration="underline">1910 · Mrs. Palmer: none sold to colonists below</text></a><rect x="360" y="168" width="340.0" height="24" fill="var(--promise)"/><text x="706" y="185" font-size="12.5" fill="var(--ink)">$100.00</text>
+<a href="#/text/rails/palmer/4"><text x="16" y="229" font-size="12.5" fill="var(--ink)" text-decoration="underline">1910 · Mrs. Palmer pays for a home and 13 acres at Osprey</text></a><rect x="360" y="214" width="497.7" height="24" fill="var(--colony)"/><text x="864" y="231" font-size="12.5" fill="var(--ink)">$846.15</text>
+<text x="16" y="314" font-size="12" fill="var(--ink2)">Not prices paid by the same buyers for the same land: what was offered, asked and paid, by those whose words survive.</text>
+</svg>

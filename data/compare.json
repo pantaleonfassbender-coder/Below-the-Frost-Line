@@ -228,6 +228,62 @@
      "wer": "J. C. Pelot, Manatee, March 1895"
     }
    ]
+  },
+  {
+   "id": "thompsonhome",
+   "titel": "Who bought the Thompson home?",
+   "frage": "When and how did John Ringling come to own a house at Sarasota?",
+   "note": "A Tampa paper reported on 28 August 1911 that Ringling had bought the winter home of C. N. Thompson. Grismer, from the county's deed records, has Ralph C. Caples buy it on 3 November 1911 and resell it to Ringling on 31 January 1912. The newspaper may have reported an agreement before the deeds, or a rumour.",
+   "voices": [
+    {
+     "text": "rails",
+     "sec": "ringling",
+     "n": [
+      1
+     ],
+     "wer": "Tampa Times, August 1911"
+    },
+    {
+     "text": "rails",
+     "sec": "ringling",
+     "n": [
+      2
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    }
+   ]
+  },
+  {
+   "id": "acres",
+   "titel": "Land in one hand",
+   "frage": "How much land did the great buyers take, and at what price?",
+   "note": "In 1884 the Edinburgh company contracted for 47,000 acres at $3.40 an acre. In 1910 the county paper reported that Mrs. Palmer had bought between 75,000 and 100,000 acres and would sell none to colonists for less than $100 an acre; Grismer gives more than 80,000.",
+   "voices": [
+    {
+     "text": "prospectus",
+     "sec": "prospectus",
+     "n": [
+      6
+     ],
+     "wer": "Prospectus, 1884"
+    },
+    {
+     "text": "rails",
+     "sec": "palmer",
+     "n": [
+      3
+     ],
+     "wer": "Manatee River Journal, June 1910"
+    },
+    {
+     "text": "rails",
+     "sec": "palmer",
+     "n": [
+      4
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    }
+   ]
   }
  ]
 }

@@ -184,6 +184,16 @@
    "citeLabel": "The village, 1902 [2]"
   },
   {
+   "d": "9 March 1903",
+   "side": "law",
+   "titel": "Lynched at Parrish",
+   "text": "Henry Thomas is lynched at Parrish, in Manatee County, the month the railroad reaches Sarasota.",
+   "cite": "#/text/rails/colour/1",
+   "citeLabel": "Rails and patrons [colour 1]",
+   "plate": "naacp1919_p55",
+   "quelle": "NAACP, Thirty Years of Lynching (1919), p. 55."
+  },
+  {
    "d": "22 March 1903",
    "side": "town",
    "titel": "The Seaboard arrives",
@@ -203,18 +213,82 @@
    "quelle": "Manatee River Journal, 24 April 1903, p. 4."
   },
   {
+   "d": "10 February 1910",
+   "side": "colony",
+   "titel": "Mrs. Palmer arrives",
+   "text": "Bertha Honoré Palmer of Chicago arrives in a private car with her sons, her father and her brother; she calls the town “refreshingly quaint”.",
+   "cite": "#/text/rails/palmer/2",
+   "citeLabel": "Rails and patrons [palmer 2]",
+   "plate": "grismer1946_palmer",
+   "quelle": "Grismer (1946), p. 157."
+  },
+  {
+   "d": "30 June 1910",
+   "side": "promise",
+   "titel": "75,000 to 100,000 acres",
+   "text": "The county paper reports Mrs. Palmer's purchase from Sarasota to Venice: none of it “to be sold to colonist at less than $100.00 per acre”.",
+   "cite": "#/text/rails/palmer/3",
+   "citeLabel": "Rails and patrons [palmer 3]",
+   "plate": "mrj1910_colony",
+   "quelle": "Manatee River Journal, 30 June 1910, p. 1."
+  },
+  {
    "d": "August 1911",
    "side": "colony",
    "titel": "The circus man buys a home",
    "text": "John Ringling, fishing in the Sarasota section, buys the winter home of C. N. Thompson, “said to be one of the finest places in that section of the State”.",
-   "quelle": "Tampa Times, 28 August 1911, reprinted in the Manatee River Journal, 31 August 1911, p. 1."
+   "quelle": "Tampa Times, 28 August 1911, reprinted in the Manatee River Journal, 31 August 1911, p. 1.",
+   "cite": "#/text/rails/ringling/1",
+   "citeLabel": "Rails and patrons [ringling 1]",
+   "plate": "mrj1911_ringling"
+  },
+  {
+   "d": "4 July 1912",
+   "side": "law",
+   "titel": "Lynched at Bradentown",
+   "text": "William English is lynched at Bradentown, the county seat, on a charge of “insulting white woman”.",
+   "cite": "#/text/rails/colour/2",
+   "citeLabel": "Rails and patrons [colour 2]",
+   "plate": "naacp1919_p56",
+   "quelle": "NAACP, Thirty Years of Lynching (1919), p. 56."
+  },
+  {
+   "d": "16 May 1913",
+   "side": "town",
+   "titel": "A city charter",
+   "text": "The Governor signs Sarasota's city charter, which allows a tax of up to “one mill for city advertising”.",
+   "cite": "#/text/rails/city/1",
+   "citeLabel": "Rails and patrons [city 1]",
+   "quelle": "Grismer (1946), p. 175."
   },
   {
    "d": "1914",
    "side": "colour",
    "titel": "Newtown",
    "text": "On 33rd Street, outside the town, Black families build “tiny homes” in Newtown, opened by Charles N. Thompson. “Previously, their principal living quarters had been at Black Bottom, in the vicinity of 12th and Lemon.”",
-   "quelle": "Grismer, The Story of Sarasota (1946), p. 179."
+   "quelle": "Grismer, The Story of Sarasota (1946), p. 179.",
+   "cite": "#/text/rails/colour/3",
+   "citeLabel": "Rails and patrons [colour 3]"
+  },
+  {
+   "d": "5 May 1918",
+   "side": "colony",
+   "titel": "Mrs. Palmer dies",
+   "text": "Bertha Palmer dies at “The Oaks”, Osprey, on Sunday night, 5 May.",
+   "cite": "#/text/rails/palmer/6",
+   "citeLabel": "Rails and patrons [palmer 6]",
+   "plate": "mrj1918_death",
+   "quelle": "Manatee River Journal, 9 May 1918, p. 1."
+  },
+  {
+   "d": "27 November 1919",
+   "side": "promise",
+   "titel": "On the circus posters",
+   "text": "The Ringlings announce stickers advertising Sarasota on the posters of their circus.",
+   "cite": "#/text/rails/ringling/3",
+   "citeLabel": "Rails and patrons [ringling 3]",
+   "plate": "mrj1919_ringadv",
+   "quelle": "Manatee River Journal, 27 November 1919, p. 3."
   },
   {
    "d": "6 January 1921",
