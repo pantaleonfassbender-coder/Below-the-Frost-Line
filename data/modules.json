@@ -10,6 +10,15 @@
    "zk": "Prospectus · Vigilance committee · Colony · Verdicts"
   },
   {
+   "id": "village",
+   "side": "colony",
+   "kurz": "2 · The village",
+   "warum": "After the colony the company built the town it had drawn in Edinburgh: a wharf, a rooming house and the De Soto Hotel. The work ended and weeds grew in Main Street; a railroad came in 1892, the freezes of 1894–95 hit the groves less than elsewhere, and in 1902 fifty-three voters made the village a town.",
+   "quelle": "Grismer (1946); Manatee River Journal 1889, 1892, 1894, 1895, 1903.",
+   "datei": "village",
+   "zk": "Building · Lean years · Freeze · Town"
+  },
+  {
    "id": "boom",
    "side": "promise",
    "kurz": "4 · The county and the boom",
@@ -20,13 +29,6 @@
   }
  ],
  "planned": [
-  {
-   "id": "village",
-   "side": "colony",
-   "kurz": "2 · The village",
-   "warum": "After the colony: a hotel for winter guests, a golf course laid out by the company's Scottish manager, the freeze of 1895, a directory of 1897 that lists six Black residents beside the white ones, and the mass meeting of October 1902 that made the village a town.",
-   "quelle": "Florida gazetteers 1886–87 and 1895; Manatee River Journal 1888–1902; Grismer (1946)."
-  },
   {
    "id": "rails",
    "side": "town",
@@ -154,6 +156,20 @@
    "kurz": "Newtown in its own words",
    "warum": "The digitized papers of the boom were written by and for white Sarasota. No Black newspaper, church record or letter from Newtown in the 1920s has been found in a public-domain source; the quarter speaks here only through police notes and announcements.",
    "quelle": "To be found."
+  },
+  {
+   "id": "blackschool",
+   "side": "colour",
+   "kurz": "The Black school and church before 1914",
+   "warum": "A teacher for a Black school at Sarasota is listed in 1894; where the school stood, who attended it, and the Black churches of the village before Newtown have not been found in the public-domain sources read. The county school board's minutes would be the next source.",
+   "quelle": "Manatee County Board of Public Instruction, minutes."
+  },
+  {
+   "id": "gazetteer1895",
+   "side": "town",
+   "kurz": "The village in the gazetteers of the 1890s",
+   "warum": "The Florida railroad gazetteer of 1895 lists Sarasota with a population of 100, the De Soto Hotel and J. H. Gillespie as justice of the peace (OCR only); it has not yet been read against the page image.",
+   "quelle": "Florida Railroad Gazetteer 1895."
   }
  ]
 }

@@ -171,6 +171,63 @@
      "wer": "Manatee River Journal, June 1921"
     }
    ]
+  },
+  {
+   "id": "firsttrain",
+   "titel": "The first train",
+   "frage": "When did the railroad from Braidentown reach Sarasota?",
+   "note": "The county paper of 25 February 1892 reports the last rail laid on Sunday, 21 February, and the road “formally opened” the next day with a flat car fitted with a top. Grismer, fifty years later, dates the first train to 16 May 1892. Both describe the same improvised car; the difference may lie between an opening excursion and regular service.",
+   "voices": [
+    {
+     "text": "village",
+     "sec": "lean",
+     "n": [
+      3
+     ],
+     "wer": "Manatee River Journal, February 1892"
+    },
+    {
+     "text": "village",
+     "sec": "lean",
+     "n": [
+      4
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    }
+   ]
+  },
+  {
+   "id": "frostline2",
+   "titel": "Ten years after “below the frost line”",
+   "frage": "What became of the promise of 1884 in the freeze of 1895?",
+   "note": "The prospectus of 1884 sold land “below the frost line”. In February 1895 the thermometer fell to 14 degrees. A grower at Manatee sent a box of vegetables to Jacksonville to show that the freeze had not come there; Grismer saw the freeze as the making of the district's reputation.",
+   "voices": [
+    {
+     "text": "prospectus",
+     "sec": "prospectus",
+     "n": [
+      6
+     ],
+     "wer": "Prospectus, 1884"
+    },
+    {
+     "text": "village",
+     "sec": "freeze",
+     "n": [
+      1,
+      3
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    },
+    {
+     "text": "village",
+     "sec": "freeze",
+     "n": [
+      2
+     ],
+     "wer": "J. C. Pelot, Manatee, March 1895"
+    }
+   ]
   }
  ]
 }

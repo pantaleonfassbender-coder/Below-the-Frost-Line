@@ -28,6 +28,7 @@ IAP = "https://archive.org/download/{}/page/n{}.jpg"
 Q = "../quellen/"
 M1 = Q + "m1/"
 M4 = Q + "m4/"
+M2 = Q + "m2/"
 
 PLATES = {
     # filled module by module: id -> (kind, source, crop in per mille [, rotation])
@@ -42,6 +43,14 @@ PLATES = {
     "grismer1946_whitaker": ("ia", IAP.format("storyofsarasotah00gris", 46), (30, 430, 980, 960)),
     "gaz1886_sarasota": ("local", M1 + "gaz1886_sarasota.png", None),
     "time1887_notorious": ("local", M1 + "time1887_notorious.png", None),
+    # Modul 2: The village
+    "grismer1946_sarasotahouse": ("ia", IAP.format("storyofsarasotah00gris", 106), (40, 220, 970, 640)),
+    "grismer1946_mainstreet": ("ia", IAP.format("storyofsarasotah00gris", 116), (40, 560, 970, 1000)),
+    "mrj1889_desoto": ("local", M2 + "mrj1889_desoto.png", (430, 0, 665, 1000)),
+    "mrj1892_rail": ("local", M2 + "mrj1892_rail.png", (0, 0, 400, 640)),
+    "mrj1894_teachers": ("local", M2 + "mrj1894_teachers.png", None),
+    "mrj1895_freeze": ("local", M2 + "mrj1895_freeze.png", (320, 0, 760, 760)),
+    "mrj1903_legal": ("local", M2 + "mrj1903_legal.png", (0, 300, 450, 1000)),
     # Modul 4: The county and the boom
     "mrj1921_boundary": ("local", M4 + "mrj1921_boundary.png", (0, 430, 560, 860)),
     "mrj1921_bunkley": ("local", M4 + "mrj1921_bunkley.png", None),

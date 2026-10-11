@@ -107,6 +107,15 @@
    "quelle": "Florida State Gazetteer and Business Directory 1886–87, s.v. Sarasota."
   },
   {
+   "d": "25 February 1887",
+   "side": "colony",
+   "titel": "The De Soto opens",
+   "text": "The company's hotel opens with a ball: “More than two hundred persons attended and the party lasted until daybreak the next morning.”",
+   "cite": "#/text/village/build/4",
+   "citeLabel": "The village, 1887 [4]",
+   "quelle": "Grismer, The Story of Sarasota (1946), p. 106."
+  },
+  {
    "d": "April 1887",
    "side": "colony",
    "titel": "“The now notorious colony”",
@@ -117,18 +126,81 @@
    "quelle": "W. R. Lawson, Time (London), April 1887, pp. 479–480."
   },
   {
+   "d": "1888",
+   "side": "town",
+   "titel": "Weeds in Main Street",
+   "text": "The building boom is over; the company asks $10 or more an acre and finds no buyers.",
+   "cite": "#/text/village/lean/1",
+   "citeLabel": "The village [lean 1]",
+   "plate": "grismer1946_mainstreet",
+   "quelle": "Grismer (1946), p. 113."
+  },
+  {
+   "d": "21 February 1892",
+   "side": "town",
+   "titel": "The last rail",
+   "text": "The last rail is laid on the Sarasota division of the railroad from Braidentown; the next day a flat car with a top carries the first party down the line.",
+   "cite": "#/text/village/lean/3",
+   "citeLabel": "The village [lean 3]",
+   "plate": "mrj1892_rail",
+   "quelle": "Manatee River Journal, 25 February 1892, p. 2."
+  },
+  {
+   "d": "11 October 1894",
+   "side": "colour",
+   "titel": "A Black school",
+   "text": "The county school board lists “A. C. Hudson, Sarasota, colored” among its teachers.",
+   "cite": "#/text/village/lean/5",
+   "citeLabel": "The village [lean 5]",
+   "plate": "mrj1894_teachers",
+   "quelle": "Manatee River Journal, 11 October 1894, p. 3."
+  },
+  {
+   "d": "8 February 1895",
+   "side": "work",
+   "titel": "Fourteen degrees",
+   "text": "The second freeze of the winter: “The mercury plummeted to 14.” Groves south of the Manatee River survive better than those farther north.",
+   "cite": "#/text/village/freeze/1",
+   "citeLabel": "The village [freeze 1]",
+   "plate": "mrj1895_freeze",
+   "quelle": "Grismer (1946), p. 120; Manatee River Journal, 14 March 1895."
+  },
+  {
    "d": "1897",
    "side": "colour",
    "titel": "Six names apart",
    "text": "A directory of the people living in what became Sarasota County lists the residents of Sarasota by name. “Six colored persons also were listed: J. Coleman, Lewis Colson, E. Justice, John Mays, and I. P. and W. S. Washington.”",
-   "quelle": "Grismer, The Story of Sarasota (1946), p. 131, after a directory of 1897."
+   "quelle": "Grismer, The Story of Sarasota (1946), p. 131, after a directory of 1897.",
+   "cite": "#/text/village/town/3",
+   "citeLabel": "The village, 1897 [3]"
   },
   {
    "d": "14 October 1902",
    "side": "town",
    "titel": "A town",
    "text": "At a mass meeting in Harry L. Higel's office on the wharf the village votes to incorporate as a town. “Practically every qualified voter in the village attended—53 of them.”",
-   "quelle": "Grismer, The Story of Sarasota (1946), p. 136."
+   "quelle": "Grismer, The Story of Sarasota (1946), p. 136.",
+   "cite": "#/text/village/town/2",
+   "citeLabel": "The village, 1902 [2]"
+  },
+  {
+   "d": "22 March 1903",
+   "side": "town",
+   "titel": "The Seaboard arrives",
+   "text": "The first train of the Seaboard's subsidiary arrives at 8 p.m.; the tracks run on to a dock where fish houses are built.",
+   "cite": "#/text/village/town/1",
+   "citeLabel": "The village, 1903 [1]",
+   "quelle": "Grismer (1946), p. 135."
+  },
+  {
+   "d": "April 1903",
+   "side": "town",
+   "titel": "Incorporation legalized",
+   "text": "The legislature passes a bill “legalizing the incorporation of the town of Sarasota”.",
+   "cite": "#/text/village/town/5",
+   "citeLabel": "The village, 1903 [5]",
+   "plate": "mrj1903_legal",
+   "quelle": "Manatee River Journal, 24 April 1903, p. 4."
   },
   {
    "d": "August 1911",

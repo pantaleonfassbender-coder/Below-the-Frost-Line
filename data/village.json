@@ -1,0 +1,198 @@
+{
+ "id": "village",
+ "titel": "The village",
+ "jahr": "1886–1903",
+ "autor": "The town historian of 1946, quoting a colonist's memoirs, and the county paper at Braidentown",
+ "quelle": "Karl H. Grismer, The Story of Sarasota (Sarasota: M. E. Russell, 1946; copyright not renewed): Internet Archive. Manatee River Journal, 1889, 1892, 1894, 1895 and 1903: Florida Digital Newspaper Library, University of Florida. All in the public domain.",
+ "hinweis": "Each passage is transcribed from the page image; spelling and punctuation are those of the print. “…” marks an omission. For these years the town's own newspaper is lost; the apparatus relies on Grismer's history, written in 1946 from interviews, family papers and town records, and on the county paper fifteen miles away. Grismer's invented dialogue is omitted. Black residents appear in these sources in single sentences: as occupants of leftover houses, as a work gang, as six names in a directory, as a teacher on a school board's list.",
+ "sections": [
+  {
+   "id": "build",
+   "titel": "Building a village (1886–1887)",
+   "blurb": "While the colony broke up, the company began the town it had drawn in Edinburgh: a wharf, a rooming house, streets cut through the woods, and a hotel for people “of wealth and influence”. For a year there were wages and a boom; a farm was meant to prove that the land would grow anything.",
+   "plates": [
+    "grismer1946_sarasotahouse"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 101",
+     "titel": "A town drawn in Scotland",
+     "orig": "From Edinburgh, Scotland, they sent orders— weeks before the colonists landed here— to their local manager, A. C. Acton, to erect portable houses in which the colonists could stay until they moved into their permanent homes. Acton also got orders to build a large rooming house for people of moderate means and a “fine hotel” where people of wealth and influence could be properly accommodated. In addition, Acton was instructed to build a wharf, where ships could dock, and to open up the streets and avenues shown on the town plat which had been drafted in Scotland.",
+     "note": "Grismer's account; the orders themselves have not been found. The company's prospectus of 1884 (module 1) offered mortgages, not a town; the plat “drafted in Scotland” is the town Sarasota grew from."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 102",
+     "titel": "Lumber in the bay",
+     "orig": "Construction of the dock and rooming house was started early in January, 1886. A number of colonists were employed to do the work, all who were able or willing to tackle such jobs. A few carpenters from Manatee also were hired. The needed lumber was brought here in schooners from Cedar Keys, Pensacola and Appalachicola. The boats were anchored as close to shore as possible and then the lumber was thrown overboard. While it floated in the water, it was picked up by the workmen and loaded onto wagons which had been pulled out into the bay by mules. Alex Browning, who helped on the job, said in his memoirs it was the worst task he ever had. “The water was mighty cold and we all became badly chilled,” he wrote, “but we stuck to the work until it was finished.”",
+     "note": "January 1886 is the month of the snow (module 1, “The colony”, [5]). The colonists who stayed earned wages building the town the company had promised them."
+    },
+    {
+     "n": 3,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 103",
+     "titel": "The portable houses",
+     "orig": "Before the Sarasota House was finished, seven portable houses, brought here on the schooner Lone Star, were erected by John R. Scott three blocks north of the “business district.” These were intended for use by the colonists but by the time they were erected, most of the colonists had left. They were later occupied by negroes.",
+     "note": "One sentence for the first Black residents of the village Grismer mentions: they lived in the colonists' leftover houses, north of the business district. Who they were, he does not say."
+    },
+    {
+     "n": 4,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 106",
+     "titel": "The De Soto Hotel",
+     "orig": "The De Soto was opened with a grand ball Friday night, February 25, 1887. The celebration was the biggest social event ever held south of Manatee. More than two hundred persons attended and the party lasted until daybreak the next morning.",
+     "note": "The company's “fine hotel for people of wealth and influence” (Grismer, p. 106): three stories, an observation tower, thirty rooms. John Hamilton Gillespie, son of Sir John Gillespie, had been sent out to represent the company “shortly after word was received in Scotland that the Scotch colony had collapsed” (p. 105)."
+    },
+    {
+     "n": 5,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), pp. 109–110",
+     "titel": "The first boom, 1886–1887",
+     "orig": "To speed the work along, Gillespie sent out word that good jobs were available in Sarasota and craftsmen and laborers flocked here from other towns, some coming from as far away as Jacksonville. The boom was on. Every room in the Sarasota House was filled, two to six persons in each room. The overflow lived in tents and shacks scattered along Main Street and the waterfront. Some of the workmen bunked in schooners anchored in the bay. Big wages for those days were paid by Gillespie's company— $2 a day for craftsmen and $1.25 for common laborers. In cash.",
+     "note": "Grismer calls it a boom; it lasted as long as the company built. The wages are his figures."
+    },
+    {
+     "n": 6,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 111",
+     "titel": "A farm to prove the land",
+     "orig": "The Scotch company set forth, early in 1887, to prove to all skeptics that its land was the most fertile in the entire state—and would grow anything. To accomplish this, Gillespie ordered work started on a 40-acre experimental farm on the Fruitville road. A gang of negroes cleared about ten acres and cultivated the soil. … Unfortunately, Gillespie selected as the site of the experimental farm one of the most sterile tracts in the entire region. He knew nothing about the spotty nature of Florida soil—and he wouldn't listen to advice. “Any Florida cracker could have told Gillespie that nothing would grow well in that locality—and nothing did grow,” says A. B. Edwards. “It was the sorriest ground you ever saw and the farm was a complete failure.”",
+     "note": "The farm was a promise in the form of a field: proof that the land “would grow anything”. The men who cleared it are named only as “a gang of negroes”."
+    }
+   ],
+   "zk": "The village, Building a village"
+  },
+  {
+   "id": "lean",
+   "titel": "The lean years (1887–1894)",
+   "blurb": "When the building stopped, the workmen left and weeds grew in Main Street. The hotel opened for winter guests; in 1892 a short railroad reached the village from Braidentown. The county's school board appointed a teacher for a Black school at Sarasota.",
+   "plates": [
+    "grismer1946_mainstreet",
+    "mrj1889_desoto",
+    "mrj1892_rail",
+    "mrj1894_teachers"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 113",
+     "titel": "Weeds in Main Street",
+     "orig": "Lower Main Street in 1888. The weeds seen in the street grew higher and thicker during the lean years which followed.",
+     "note": "Caption of the photograph (plate). Above it Grismer writes that the company “could not induce other people to pay the $10 or more per acre which it then demanded for its land”. The prospectus of 1884 had put the cost of the land at $3.40 an acre (module 1)."
+    },
+    {
+     "n": 2,
+     "pg": "Manatee River Journal (Braidentown), 5 December 1889, p. 3",
+     "titel": "For the season",
+     "orig": "The DeSoto Hotel at Sarasota opened this week for the season.",
+     "note": "One line among the local notes of the county paper. The hotel lived on winter guests; the town had not yet any other business."
+    },
+    {
+     "n": 3,
+     "pg": "Manatee River Journal (Braidentown), 25 February 1892, p. 2",
+     "titel": "The last rail, February 1892",
+     "orig": "A PART COMPLETED. Sunday afternoon, the 21st inst., about four o'clock the last rail was laid on the Sarasota Division of the A., G. C. & L. R. R., and the engine stood before the depot in that town. On Monday the road was formally opened. The two passenger coaches which have been some time on the road not having arrived, several of our local carpenters fitted a top, seat, etc., to a flat car and the engine Anthony Peters carried down the line quite a noted gathering, about forty in all … The party left Braidentown at half past three and reached Sarasota after a very pleasant run of an hour and nine minutes. … Reaching Sarasota the party visited the DeSoto Hotel, which is still in the hands of the painters, etc., being rapidly fitted up in the finest style, and will soon be open to tourists who wish to enjoy the beauties of Sarasota bay.",
+     "note": "Grismer (p. 114, [4]) dates the first train from Bradenton to 16 May 1892; the county paper reports the line opened on Monday, 22 February 1892. Regular service may have begun later; the two dates are set side by side on the Compare page."
+    },
+    {
+     "n": 4,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 114",
+     "titel": "The “Slow and Wobbly”",
+     "orig": "Sarasotans called it the “Slow and Wobbly”—that so-called railroad which ran its first train from Bradenton to Sarasota on May 16, 1892. It was a comic strip railroad if there ever was one. The engine was a dilapidated, second-hand wood burner, with a huge fire-box and a towering smokestack which poured forth soot and sparks. The “train” consisted of two flat cars, one of which was covered with a canvas canopy to protect the passengers from sun, and rain, and smoke.",
+     "note": "The town's memory of its first railroad, fifty years later. The flat car with a canopy agrees with the report of 1892 ([3])."
+    },
+    {
+     "n": 5,
+     "pg": "Manatee River Journal (Braidentown), 11 October 1894, p. 3: Proceedings of the Board of Public Instruction",
+     "titel": "A teacher for a Black school",
+     "orig": "Teachers were assigned to schools as follows: Prof. T. C. Walton, with Miss Gonce, Assistant, County High School. Mr. C. A. Brush, Sarasota. … A. C. Hudson, Sarasota, colored. — — Manywether, Manatee, colored. Other schools to be supplied.",
+     "note": "From the county school board's list of teachers assigned for the year: at Sarasota a school with a white teacher and a school marked “colored”, each with its own teacher. It is the earliest trace found so far of a Black school at Sarasota."
+    }
+   ],
+   "zk": "The village, The lean years"
+  },
+  {
+   "id": "freeze",
+   "titel": "The freeze (1894–1895)",
+   "blurb": "Ten years after the prospectus, two freezes killed the crops of Florida. South of the Manatee River the groves survived better than elsewhere, and the cold became an argument: here the freeze came less.",
+   "plates": [
+    "mrj1895_freeze"
+   ],
+   "viz": "village-ways",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 120",
+     "titel": "Fourteen degrees",
+     "orig": "The entire Sarasota region suffered a staggering blow during the winter of 1894-95, the coldest in the history of the state. During the night of December 27, 1894, the temperature fell to 17 degrees above zero. All vegetables were killed and the citrus crop was ruined. The extreme cold was followed by six weeks of unusually warm weather. New crops of vegetables were just getting started. Citrus trees took on new life. But then an even worse freeze occurred, on the night of February 8, 1895. The mercury plummeted to 14, the lowest in the memory of man. The new vegetable crops were killed. Young citrus trees were frozen to the ground.",
+     "note": "Ten years after the prospectus of “lands … below the frost line” (module 1). Grismer's temperatures are not attributed to a station."
+    },
+    {
+     "n": 2,
+     "pg": "Manatee River Journal (Braidentown), 14 March 1895, p. 2, after the Jacksonville Citizen",
+     "titel": "“Where the freeze came not”",
+     "orig": "WHERE THE FREEZE CAME NOT. Products from Manatee County That Were Not Injured by the Cold. … “I noticed a few days ago a statement in one of the papers that there were no vegetables in Florida, not even cabbages. This is a mistake, and does not apply to this section. I send you a second box, with a cabbage well headed, several beets, a sprig of Irish potato of good growth, a turnip of sufficient size to show that it grew through the freeze, and a few bunches of strawberries in all stages of fruitage, and in which I have also added a few oranges and grapefruit.”",
+     "note": "A grower at Manatee, J. C. Pelot, sends a box of produce to a railroad's passenger agent in Jacksonville, who displays it in a shop window. The freeze is turned into an advertisement: here, it did not reach."
+    },
+    {
+     "n": 3,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 120",
+     "titel": "A frost that sold land",
+     "orig": "Strangely enough, however, the two cold spells ultimately helped the Land of Sarasota more than they harmed it. South of the broad Manatee River, the frosts were by no means as severe as they were farther north where practically all the groves were completely destroyed. … The fact that groves in this area escaped being killed by the devastating cold weather of 1894-95 brought a number of new settlers to this locality from farther north in Florida. They wanted a spot where the work of years would not be wiped out in a few nights—and here they found what they wanted.",
+     "note": "The promise of 1884 returns, smaller and truer: not “below the frost line”, but less frost than elsewhere."
+    },
+    {
+     "n": 4,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), pp. 120–121",
+     "titel": "A fishing village",
+     "orig": "During 1895, Sarasota first began to be called “a fishing village.” And with good reason. The fishing industry here began to flourish as it had never flourished before. True enough, there had been fishermen here for at least a century before 1895. First, itinerant Cuban and Spanish fishermen, like Alzartie and Phillippi, who lived in palmetto shacks along the bay or on the keys. Then Bill Whitaker, who got his start by selling dry salt mullet and roe to Cuban traders.",
+     "note": "In 1895 a federal dredge cut channels in upper Sarasota Bay, and from 7 October a fish dealer's steamer from Tampa called three times a week (Grismer, p. 121): fresh fish on ice could now reach the railroad at Tampa. The Cuban and Spanish fishermen of the earlier century appear here only by surname."
+    }
+   ],
+   "zk": "The village, The freeze"
+  },
+  {
+   "id": "town",
+   "titel": "A town (1897–1903)",
+   "blurb": "In 1902 the news that the Seaboard would come brought fifty-three voters to a meeting on the wharf, and the village became a town, with Gillespie as mayor and a jail as its first building. The first train arrived in March 1903.",
+   "plates": [
+    "mrj1903_legal"
+   ],
+   "units": [
+    {
+     "n": 1,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 135",
+     "titel": "The Seaboard arrives, March 1903",
+     "orig": "The first train, consisting of a day coach, a Pullman, a baggage car and the engine, arrived here at 8 p.m., March 22, 1903. The engine was an old wood-burner, No. 52. … The railroad tracks were extended through the town and west on Strawberry Avenue to a dock built out to eight feet of water. Several fish warehouses soon were erected on the dock.",
+     "note": "The line was built under the name of the United States & West Indies Railroad & Steamship Co., a subsidiary of the Seaboard Air Line, and renamed Florida West Shore Railway on 9 May 1903 (Grismer, p. 135). The news that it would come brought the vote to incorporate ([2]); the story of the railroad and the winter residents it brought continues in module 3."
+    },
+    {
+     "n": 2,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 136",
+     "titel": "Fifty-three voters",
+     "orig": "So enthused were the Sarasotans regarding the prospects for the future that they decided the village must be incorporated as a town. A mass meeting was called. It was held Tuesday night, October 14, 1902, in Harry L. Higel's office on the wharf. Practically every qualified voter in the village attended—53 of them. … The vote to incorporate was unanimous. Then the first town officials were elected: John Hamilton Gillespie, mayor; J. B. Turner, Dr. J. O. Brown, George W. Blackburn, W. J. Hill and Harry L. Higel, aldermen; B. D. Gullett, clerk, and T. F. Blair, marshall.",
+     "note": "Grismer adds speeches by Higel and Gillespie in quotation marks; they are his dramatization and are omitted here. Who counted as a “qualified voter” in 1902 he does not say, nor whether any Black man voted; the directory of 1897 had listed six Black residents by name ([3])."
+    },
+    {
+     "n": 3,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 131",
+     "titel": "Six names in 1897",
+     "orig": "… Hamlin Whitaker, Luke Wood, C. N. Thompson, and E. Woolley. Six colored persons also were listed: J. Coleman, Lewis Colson, E. Justice, John Mays, and I. P. and W. S. Washington. NOTE: More than three-fourths of the above persons lived outside the town limits of Sarasota but received their mail at the Sarasota post office.",
+     "note": "The end of Grismer's list of the people “known to be living in the present Sarasota County in 1897, as shown by a directory carefully preserved by Mrs. Guy Shepard”. Lewis Colson appears again in 1926, when a hotel for Black tourists is to be named for him (module 4)."
+    },
+    {
+     "n": 4,
+     "pg": "Karl H. Grismer, The Story of Sarasota (1946), p. 138",
+     "titel": "The first public work: a jail",
+     "orig": "Sarasota's first gain from incorporation was a calaboose, erected during November on the north side of Cedar Point. To build and equip it, Mayor Gillespie advanced $200. But before he paid out the money he secured a note—canny Scotsman that he was—from the council members for the entire amount, and made sure the loan would pay eight per cent interest.",
+     "note": "Grismer tells it as an anecdote of a careful Scot. The town's first building was a lock-up; its first improvement, he writes, the repair of a bridge."
+    },
+    {
+     "n": 5,
+     "pg": "Manatee River Journal (Braidentown), 24 April 1903, p. 4",
+     "titel": "Made legal",
+     "orig": "Mr. Parrish has introduced a bill making the playing of foot ball illegal, and has secured the passage of his bill legalizing the incorporation of the town of Sarasota.",
+     "note": "The incorporation of October 1902 was confirmed by the legislature the following spring. Grismer writes that it was made under the state's general law and recorded on 14 November 1902 (p. 136)."
+    }
+   ],
+   "zk": "The village, A town"
+  }
+ ]
+}
