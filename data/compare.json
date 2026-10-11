@@ -1,4 +1,88 @@
 {
  "lede": "Where the sources speak about the same thing, their voices stand side by side.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "society",
+   "titel": "Was there a society?",
+   "frage": "Was there an organized committee of killers at Sarasota in 1884?",
+   "note": "A member testified to “the Sara Sota Vigilance Committee, styled S. S. V. C.”, its meetings and its members; a Jacksonville paper called it “a society of thugs”. A neighbour, speaking in Buffalo, denied that there was ever “any formal organization” and blamed “a number of bad, unscrupulous men”. The juries and the Supreme Court followed the testimony.",
+   "voices": [
+    {
+     "text": "prospectus",
+     "sec": "vigilance",
+     "n": [
+      6,
+      5
+     ],
+     "wer": "Thomas L. Dryman and Louis L. Cato, in court, 1885"
+    },
+    {
+     "text": "prospectus",
+     "sec": "vigilance",
+     "n": [
+      2
+     ],
+     "wer": "Florida Times-Union, January 1885"
+    },
+    {
+     "text": "prospectus",
+     "sec": "vigilance",
+     "n": [
+      10
+     ],
+     "wer": "Mrs. H. M. Greer, July 1885"
+    }
+   ]
+  },
+  {
+   "id": "arrival",
+   "titel": "Excellent health",
+   "frage": "How did the colony fare in its first weeks?",
+   "note": "The promoter wrote on 4 January 1886 that the colonists continued in excellent health and were settling on their lands “contented and hopeful”. Five days later, by a colonist's memoir, snow fell; a diary of the same weeks ends with “Start today for Tampa.”",
+   "voices": [
+    {
+     "text": "prospectus",
+     "sec": "colony",
+     "n": [
+      2
+     ],
+     "wer": "J. S. Tait, 4 January 1886"
+    },
+    {
+     "text": "prospectus",
+     "sec": "colony",
+     "n": [
+      5,
+      7
+     ],
+     "wer": "Alex Browning; Dan McKinlay"
+    }
+   ]
+  },
+  {
+   "id": "blame",
+   "titel": "Whose fault?",
+   "frage": "Who was responsible for the failure of the colony?",
+   "note": "A London writer in 1887 blamed the promoter's plausibility, a board that had never seen Florida, and the choice of “elderly men and fathers of families”. The town's historian in 1946 called the directors “men of honor and integrity” and looked for the cause elsewhere.",
+   "voices": [
+    {
+     "text": "prospectus",
+     "sec": "verdict",
+     "n": [
+      2,
+      3
+     ],
+     "wer": "W. R. Lawson, 1887"
+    },
+    {
+     "text": "prospectus",
+     "sec": "verdict",
+     "n": [
+      5
+     ],
+     "wer": "Karl H. Grismer, 1946"
+    }
+   ]
+  }
+ ]
 }

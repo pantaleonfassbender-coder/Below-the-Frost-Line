@@ -1,5 +1,76 @@
 {
- "lede": "Public-domain maps, photographs, prints and newspaper pages, each with its source. Plates follow with the modules.",
- "credit": "",
- "plates": []
+ "lede": "Public-domain pages, maps and photographs, each with its source.",
+ "credit": "Pages of The Economist, The Atlanta Constitution, the Chicago Daily Tribune, Time (London), a Florida gazetteer and Karl H. Grismer's Story of Sarasota (1946): Internet Archive. Florida Reports: Caselaw Access Project, Harvard Law School Library. The Pensacolian: Florida Digital Newspaper Library, University of Florida. All in the public domain.",
+ "plates": [
+  {
+   "id": "econ1884_head",
+   "side": "promise",
+   "titel": "The prospectus, 1884",
+   "caption": "The head of the advertisement: “THE FLORIDA MORTGAGE & INVESTMENT CO., LMTD.”, its capital, its directors in Scotland and in America, and its general manager “in Florida”, Piers E. Warburton of Sarasota.",
+   "source": "The Economist, 25 October 1884, p. 1313, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "econ1884_frostline",
+   "side": "promise",
+   "titel": "“Below the frost line”",
+   "caption": "47,000 acres on Sarasota Bay at $3.40 an acre, for oranges, bananas, pineapples, sugar, cotton, tobacco, rice and maize, “as the lands are below the frost line”.",
+   "source": "The Economist, 25 October 1884, p. 1313, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "bacon1886_p64",
+   "side": "law",
+   "titel": "“Styled S. S. V. C.”",
+   "caption": "Florida's Supreme Court reports the testimony of Thomas L. Dryman: the meeting before the killing of Harrison T. Riley, “a meeting of an organization known as the Sara Sota Vigilance Committee, styled S. S. V. C.”, and its members.",
+   "source": "Bacon, Andrews and Bidwell v. State, 22 Fla. 51 (1886), p. 64. Caselaw Access Project; public domain."
+  },
+  {
+   "id": "pens1885_victory",
+   "side": "law",
+   "titel": "“A Law and Order Victory”, 1885",
+   "caption": "The Florida Times-Union's account, reprinted in Pensacola: “a society of thugs at Sarasota”, the oath at gunpoint, the judges and the captain, the arrests, and the crowd held back from lynching the prisoners.",
+   "source": "The Pensacolian, 31 January 1885, p. 4, two column sections set side by side. Florida Digital Newspaper Library, University of Florida; public domain."
+  },
+  {
+   "id": "grismer1946_bidwell",
+   "side": "law",
+   "titel": "Bidwell's house",
+   "caption": "“Did the Vigilantes plan a murder here?” The house of Alfred B. Bidwell as photographed for Grismer's book; his caption says the murder of the postmaster was accused of having been planned there on Christmas Day 1884 (he misprints the postmaster's initial as “R.”).",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), p. 79. Internet Archive; public domain."
+  },
+  {
+   "id": "atl1885_greer",
+   "side": "law",
+   "titel": "“Sara Soto is no town”, 1885",
+   "caption": "A neighbour from Sarasota, visiting Buffalo, against the name in the papers: “There never was any formal organization known as the Sara Soto Assassination society.”",
+   "source": "The Atlanta Constitution, 27 July 1885, editorial page, after the Buffalo Express, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "trib1886_tait",
+   "side": "colony",
+   "titel": "Tait's letter, 1886",
+   "caption": "“ORMISTON, Sarasota County, Fla., Jan. 4.” The promoter's letter to Edinburgh, cabled from Glasgow, with the Glasgow paper's heading below: “A Tropical Paradise in a Swamp.”",
+   "source": "Chicago Daily Tribune, 6 February 1886, p. 5, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "grismer1946_whitaker",
+   "side": "colony",
+   "titel": "The Whitaker children",
+   "caption": "“Sarasota's first children”: six of the eleven children of William H. and Mary Jane Whitaker, whose family, by Grismer's account, had been on the bay since the 1840s and fed the newcomers in 1885.",
+   "source": "Karl H. Grismer, The Story of Sarasota (1946), p. 43. Internet Archive; public domain."
+  },
+  {
+   "id": "gaz1886_sarasota",
+   "side": "town",
+   "titel": "“No present business interest”",
+   "caption": "Sarasota in the Florida gazetteer of 1886–87: “A recently established settlement and post office … It has no present business interest to report.”",
+   "source": "Florida State Gazetteer and Business Directory 1886–87, s.v. Sarasota, detail. Internet Archive; public domain."
+  },
+  {
+   "id": "time1887_notorious",
+   "side": "colony",
+   "titel": "“The now notorious colony”, 1887",
+   "caption": "A London monthly on the colony: “the youngest of a long series of Scottish failures in attempting to colonise a region utterly unsuited for them”, and on the board that had never been to Florida.",
+   "source": "W. R. Lawson, “Scottish Colonies on the Gulf of Mexico”, Time (London), April 1887, p. 479. Internet Archive; public domain."
+  }
+ ]
 }

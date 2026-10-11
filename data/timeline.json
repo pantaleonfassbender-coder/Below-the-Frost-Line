@@ -1,33 +1,120 @@
 {
- "lede": "Stations read against the page images of their sources only; each names its source. Links into the modules follow as the modules are printed.",
+ "lede": "Stations read against the page images of their sources only; each names its source and, where printed, links to its passage.",
  "stations": [
+  {
+   "d": "August 1884",
+   "side": "law",
+   "titel": "The Sara Sota Vigilance Committee",
+   "text": "A witness at the trial for the murder of Harrison T. Riley tells of a meeting in Jason Alford's house on the Saturday night before the killing: “That was a meeting of an organization known as the Sara Sota Vigilance Committee, styled S. S. V. C.”",
+   "quelle": "Bacon, Andrews and Bidwell v. State, 22 Fla. 51 (January term 1886), p. 64.",
+   "cite": "#/text/prospectus/vigilance/6",
+   "citeLabel": "The vigilance committee [6]",
+   "plate": "bacon1886_p64"
+  },
+  {
+   "d": "August 1884",
+   "side": "law",
+   "titel": "Riley on the road",
+   "text": "Harrison T. Riley is shot on the road and his throat cut, on the orders, as members later testify, of the committee's “judges”.",
+   "cite": "#/text/prospectus/vigilance/4",
+   "citeLabel": "The vigilance committee [4]",
+   "quelle": "The Pensacolian, 31 January 1885, p. 4; Bacon v. State, 22 Fla. 51 (1886), p. 62."
+  },
   {
    "d": "25 October 1884",
    "side": "promise",
    "titel": "47,000 acres below the frost line",
    "text": "The Florida Mortgage and Investment Company announces “a provisional contract … for the purchase of 47,000 acres of freehold land, situate on Sarasota Bay, Manatee County, Florida”; the most delicate vegetables grown there go to the northern markets in January and February, “as the lands are below the frost line”.",
-   "quelle": "Prospectus, The Economist, 25 October 1884, p. 1313."
-  },
-  {
-   "d": "1884",
-   "side": "law",
-   "titel": "The Sara Sota Vigilance Committee",
-   "text": "A witness at the trial for the murder of Harrison T. Riley tells of a meeting in Jason Alford's house on the Saturday night before the killing: “That was a meeting of an organization known as the Sara Sota Vigilance Committee, styled S. S. V. C.”",
-   "quelle": "Bacon, Andrews and Bidwell v. State, 22 Fla. 51 (January term 1886), p. 64."
+   "quelle": "Prospectus, The Economist, 25 October 1884, p. 1313.",
+   "cite": "#/text/prospectus/prospectus/6",
+   "citeLabel": "The prospectus, 1884 [6]",
+   "plate": "econ1884_frostline"
   },
   {
    "d": "27 December 1884",
    "side": "law",
    "titel": "The postmaster is shot",
    "text": "Charles E. Abbe is killed by a shotgun shot to the head; Florida's Supreme Court later finds the killing premeditated and upholds the conviction of Joseph C. Anderson as present, aiding and abetting.",
-   "quelle": "Anderson v. State, 24 Fla. 139 (1888), p. 140."
+   "quelle": "Anderson v. State, 24 Fla. 139 (1888), p. 140.",
+   "cite": "#/text/prospectus/vigilance/7",
+   "citeLabel": "The vigilance committee [7]"
   },
   {
-   "d": "January 1886",
+   "d": "31 January 1885",
+   "side": "law",
+   "titel": "“A society of thugs”",
+   "text": "The press reports the arrests: “a society of thugs at Sarasota”, with judges, a captain and an oath; the prisoners are held at Pine Level, and the people were “with great difficulty” prevented from lynching them.",
+   "cite": "#/text/prospectus/vigilance/2",
+   "citeLabel": "The vigilance committee [2]",
+   "plate": "pens1885_victory",
+   "quelle": "The Pensacolian, 31 January 1885, p. 4, after the Florida Times-Union."
+  },
+  {
+   "d": "14 July 1885",
+   "side": "law",
+   "titel": "The verdict",
+   "text": "At a special term of the Circuit Court for Manatee County the jury finds Edmond P. Bacon guilty of the murder of Harrison T. Riley, and Leonard F. Andrews and Alfred B. Bidwell guilty as accessories; Adam W. Hunter is acquitted.",
+   "cite": "#/text/prospectus/vigilance/9",
+   "citeLabel": "The vigilance committee [9]",
+   "quelle": "Bacon, Andrews and Bidwell v. State, 22 Fla. 51 (1886), pp. 52–53."
+  },
+  {
+   "d": "27 July 1885",
+   "side": "law",
+   "titel": "“No formal organization”",
+   "text": "A neighbour from Sarasota, in Buffalo: “Sara Soto is no town. It is only a frontier settlement. … There never was any formal organization known as the Sara Soto Assassination society.”",
+   "cite": "#/text/prospectus/vigilance/10",
+   "citeLabel": "The vigilance committee [10]",
+   "plate": "atl1885_greer",
+   "quelle": "The Atlanta Constitution, 27 July 1885, editorial page, after the Buffalo Express."
+  },
+  {
+   "d": "4 January 1886",
+   "side": "colony",
+   "titel": "“In excellent health”",
+   "text": "The promoter J. S. Tait writes from “Ormiston”: the colonists, “upwards of 100 souls”, arrived “in excellent health”; the natives are spreading “false rumors”.",
+   "cite": "#/text/prospectus/colony/2",
+   "citeLabel": "The colony [2]",
+   "plate": "trib1886_tait",
+   "quelle": "Chicago Daily Tribune, 6 February 1886, p. 5."
+  },
+  {
+   "d": "about 9 January 1886",
    "side": "colony",
    "titel": "Snow",
    "text": "A colonist remembers: “About January 9 it became much colder and snow began to fall, greatly to the surprise of the natives who thought at first the woods were afire and that the ashes were being carried by the wind.”",
-   "quelle": "Memoirs of Alex Browning, as quoted in Karl H. Grismer, The Story of Sarasota (1946), p. 97."
+   "quelle": "Memoirs of Alex Browning, as quoted in Karl H. Grismer, The Story of Sarasota (1946), p. 97.",
+   "cite": "#/text/prospectus/colony/5",
+   "citeLabel": "The colony [5]"
+  },
+  {
+   "d": "15 February 1886",
+   "side": "colony",
+   "titel": "“Start today for Tampa”",
+   "text": "A colonist's diary: “The colony seems to have completely broken up.” Three days later: “any place is better than desolate Sarasota.”",
+   "cite": "#/text/prospectus/colony/7",
+   "citeLabel": "The colony [7]",
+   "quelle": "Diary of Dan McKinlay, in Grismer, The Story of Sarasota (1946), p. 98."
+  },
+  {
+   "d": "1886–87",
+   "side": "town",
+   "titel": "No business to report",
+   "text": "The state gazetteer lists Sarasota as “a recently established settlement and post office” that “has no present business interest to report”.",
+   "cite": "#/text/prospectus/verdict/1",
+   "citeLabel": "Verdicts [1]",
+   "plate": "gaz1886_sarasota",
+   "quelle": "Florida State Gazetteer and Business Directory 1886–87, s.v. Sarasota."
+  },
+  {
+   "d": "April 1887",
+   "side": "colony",
+   "titel": "“The now notorious colony”",
+   "text": "A London monthly counts Sarasota among the “Scottish failures in attempting to colonise a region utterly unsuited for them” — and adds: “Florida has had booms before and will have them again.”",
+   "cite": "#/text/prospectus/verdict/2",
+   "citeLabel": "Verdicts [2]",
+   "plate": "time1887_notorious",
+   "quelle": "W. R. Lawson, Time (London), April 1887, pp. 479–480."
   },
   {
    "d": "1897",

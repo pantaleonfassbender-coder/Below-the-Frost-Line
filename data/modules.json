@@ -1,13 +1,16 @@
 {
- "shipped": [],
- "planned": [
+ "shipped": [
   {
    "id": "prospectus",
    "side": "promise",
    "kurz": "1 · The prospectus and the colony",
-   "warum": "In October 1884 the Florida Mortgage and Investment Company of Edinburgh announced the purchase of 47,000 acres on Sarasota Bay, “below the frost line”. In December 1885 its Scottish colonists landed at a settlement that had no town; that winter snow fell, and most of them left. Meanwhile the trials of a vigilance committee that had killed two men in 1884 were in the newspapers of half the country.",
-   "quelle": "Prospectus, The Economist, 25 October 1884; Bacon v. State, 22 Fla. 51 (1886) and Anderson v. State, 24 Fla. 139 (1888); Chicago Daily Tribune, 6 February 1886; W. R. Lawson in Time (London), April 1887; colonists' memoirs as quoted in Grismer (1946)."
-  },
+   "warum": "In October 1884 a company in Edinburgh contracted for 47,000 acres on Sarasota Bay, “below the frost line”. In the same year a vigilance committee of settlers killed Harrison T. Riley and the postmaster Charles E. Abbe; Florida's courts convicted its leaders. In December 1885 Scottish colonists landed; in January snow fell, and by February the colony had broken up.",
+   "quelle": "The Economist 1884; Florida Reports 1886 and 1888; The Pensacolian and The Atlanta Constitution 1885; Chicago Daily Tribune 1886; Florida gazetteer 1886–87; Time (London) 1887; Grismer (1946).",
+   "datei": "prospectus",
+   "zk": "Prospectus · Vigilance committee · Colony · Verdicts"
+  }
+ ],
+ "planned": [
   {
    "id": "village",
    "side": "colony",
@@ -107,6 +110,34 @@
    "kurz": "The WPA guide to Florida (1939)",
    "warum": "The Federal Writers' Project guide has a long entry on Sarasota, but its copyright was renewed in 1967. It is not quoted here.",
    "quelle": "—"
+  },
+  {
+   "id": "lawrie",
+   "side": "colony",
+   "kurz": "John Lawrie's letter, January 1886",
+   "warum": "The colonist John Lawrie of Paisley wrote the letter of complaint that the New-York Tribune printed in January 1886 and the Scottish papers copied. The New York paper is on Chronicling America, which is not reachable here; a summary in the Los Angeles Times of 17 January 1886 is too worn in the scan to be read reliably.",
+   "quelle": "New-York Tribune, January 1886."
+  },
+  {
+   "id": "riley",
+   "side": "law",
+   "kurz": "Harrison T. Riley and Charles E. Abbe",
+   "warum": "Both murdered men appear in the sources only through their killers, the courts and the press. What Riley was accused of comes from the committee itself; why Abbe was hated is disputed in the press of 1885. A genealogy of the Abbe family (1916) and the post office records have not yet been read against the page image.",
+   "quelle": "Abbe-Abbey Genealogy (1916); records of the Post Office Department."
+  },
+  {
+   "id": "sentences",
+   "side": "law",
+   "kurz": "The sentences",
+   "warum": "The Supreme Court's opinions affirm the judgments but do not state the sentences, and what became of the convicted men — pardons, commutations, escapes — is not documented in the sources read so far. The records of the Florida Board of Pardons and the state prison would be needed.",
+   "quelle": "State Archives of Florida."
+  },
+  {
+   "id": "before1884",
+   "side": "colony",
+   "kurz": "The bay before 1884",
+   "warum": "The Calusa, the Cuban and Spanish fishing ranchos on the bay, the Seminole wars and the Whitakers' settlement of the 1840s are told here only in passing. The federal documents on the fishing ranchos of the 1830s and the naval records of the Civil War on the bay have been found but not yet read against the page image.",
+   "quelle": "Congressional documents of the 1830s; Official Records of the Union and Confederate Navies, vol. 17 (1903)."
   }
  ]
 }
