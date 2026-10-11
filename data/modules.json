@@ -1,0 +1,112 @@
+{
+ "shipped": [],
+ "planned": [
+  {
+   "id": "prospectus",
+   "side": "promise",
+   "kurz": "1 · The prospectus and the colony",
+   "warum": "In October 1884 the Florida Mortgage and Investment Company of Edinburgh announced the purchase of 47,000 acres on Sarasota Bay, “below the frost line”. In December 1885 its Scottish colonists landed at a settlement that had no town; that winter snow fell, and most of them left. Meanwhile the trials of a vigilance committee that had killed two men in 1884 were in the newspapers of half the country.",
+   "quelle": "Prospectus, The Economist, 25 October 1884; Bacon v. State, 22 Fla. 51 (1886) and Anderson v. State, 24 Fla. 139 (1888); Chicago Daily Tribune, 6 February 1886; W. R. Lawson in Time (London), April 1887; colonists' memoirs as quoted in Grismer (1946)."
+  },
+  {
+   "id": "village",
+   "side": "colony",
+   "kurz": "2 · The village",
+   "warum": "After the colony: a hotel for winter guests, a golf course laid out by the company's Scottish manager, the freeze of 1895, a directory of 1897 that lists six Black residents beside the white ones, and the mass meeting of October 1902 that made the village a town.",
+   "quelle": "Florida gazetteers 1886–87 and 1895; Manatee River Journal 1888–1902; Grismer (1946)."
+  },
+  {
+   "id": "rails",
+   "side": "town",
+   "kurz": "3 · Rails and patrons",
+   "warum": "The railroad reached Sarasota in 1903. Winter residents with great fortunes followed: Bertha Palmer of Chicago from 1910, John Ringling of the circus from 1911. From about 1914 Black families built homes in Newtown, outside the town.",
+   "quelle": "Manatee River Journal 1903–1921; Bradentown City Directory 1916 (with Sarasota); census 1910 and 1920; Grismer (1946)."
+  },
+  {
+   "id": "boom",
+   "side": "promise",
+   "kurz": "4 · The county and the boom",
+   "warum": "In 1921 Sarasota became the seat of its own county. In the same year a hurricane struck the waterfront and a former convict guard was held for the murder of a Black prisoner. In the boom of 1925–26 lots, hotels and islands were sold, the causeway to the keys opened, the Klan paraded, and a hotel for Black tourists was planned.",
+   "quelle": "Manatee River Journal 1921; Monthly Weather Review, October 1921; promotional booklets of about 1922 and 1924; Sarasota Herald, October 1925 to August 1926."
+  },
+  {
+   "id": "bust",
+   "side": "work",
+   "kurz": "5 · After the boom",
+   "warum": "The boom ended in 1926. In the years that followed the celery fields of Palmer Farms, worked mostly by Black labourers, the trailer camps of winter visitors, the Civilian Conservation Corps at Myakka, and the Works Progress Administration's auditorium and beach casino carried the town; the Ringling museum and art school opened.",
+   "quelle": "Census 1930; Ship-canal hearings 1937; Myakka Rattler (CCC camp paper) 1934–35; Florida state park reports; National Youth Administration directory 1936; Grismer (1946)."
+  },
+  {
+   "id": "airfield",
+   "side": "town",
+   "kurz": "6 · The airfield and the book",
+   "warum": "From 1942 an Army air base stood east of the town, with more than 3,000 men at its peak; it closed on 2 January 1946. In the same year Karl H. Grismer published The Story of Sarasota: the history a town tells about itself, and what it leaves out.",
+   "quelle": "Florida newspapers 1942–45; USGS Sarasota quadrangle 1944; Grismer (1946)."
+  }
+ ],
+ "missing": [
+  {
+   "id": "times",
+   "side": "town",
+   "kurz": "The Sarasota Times, 1899–1929",
+   "warum": "The town's own weekly is not digitized. A survey of 1995 lists two issues at the University of South Florida and a run from 1910 to 1924 with the city's historical resources department. Until it can be read, the apparatus relies on the newspaper of Bradentown and on papers elsewhere.",
+   "quelle": "—"
+  },
+  {
+   "id": "bust",
+   "side": "promise",
+   "kurz": "The bust in its own record",
+   "warum": "The digitized Sarasota Herald ends in August 1926. For the collapse of the boom, the hurricane of September 1926, the Depression and the town's debts, no public-domain local source has been found yet; Grismer speaks only of a mayor who “succeeded in refunding the city's debt”.",
+   "quelle": "—"
+  },
+  {
+   "id": "scotland",
+   "side": "colony",
+   "kurz": "The colony in the Scottish press",
+   "warum": "The company's pamphlet of 1885 and the Scottish newspapers that reported the colonists' complaints (the North British Mail, January 1886) are not reachable here; the British Newspaper Archive is paid. They are known through American reprints.",
+   "quelle": "—"
+  },
+  {
+   "id": "browning",
+   "side": "colony",
+   "kurz": "Alex Browning's memoirs",
+   "warum": "The colonist's memoirs were lent to Grismer as a family manuscript. Only the passages Grismer printed in 1946 are used; a part printed in 1999 is protected.",
+   "quelle": "—"
+  },
+  {
+   "id": "bunkley",
+   "side": "law",
+   "kurz": "The prisoner killed at Salt Springs, 1921",
+   "warum": "A newspaper of June 1921 reports that a former convict guard, J. R. Bunkley, was held for the murder of a Black prisoner at Salt Springs and bound over to the grand jury of Sarasota County. The prisoner is not named and the outcome has not been found.",
+   "quelle": "—"
+  },
+  {
+   "id": "beach",
+   "side": "colour",
+   "kurz": "The beaches",
+   "warum": "No public-domain source before 1946 has been found on who was allowed on Sarasota's beaches. Later reports (1955–56) are named only as pointers.",
+   "quelle": "—"
+  },
+  {
+   "id": "selby",
+   "side": "colony",
+   "kurz": "William and Marie Selby",
+   "warum": "The Sarasota Herald of 1925–26 records William Selby and his wife as winter residents from Marietta, Ohio. Their arrival, their house on the bay and the gardens that bear Marie Selby's name lie outside what the sources read so far can carry; a chapter of its own is left open.",
+   "quelle": "—"
+  },
+  {
+   "id": "art",
+   "side": "colony",
+   "kurz": "The art colony",
+   "warum": "The Ringling museum (opened 1931) and the art school are documented here only in passing. The painters, classes and exhibitions of the 1930s and 1940s are left open for a chapter of their own.",
+   "quelle": "—"
+  },
+  {
+   "id": "wpaguide",
+   "side": "town",
+   "kurz": "The WPA guide to Florida (1939)",
+   "warum": "The Federal Writers' Project guide has a long entry on Sarasota, but its copyright was renewed in 1967. It is not quoted here.",
+   "quelle": "—"
+  }
+ ]
+}
